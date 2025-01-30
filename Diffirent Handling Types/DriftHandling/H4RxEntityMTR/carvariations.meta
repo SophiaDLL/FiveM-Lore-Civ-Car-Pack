@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <indices content="char_array" >  -->
+	<!-- [PAINT:1] - Primary Color -->
+	<!-- [PAINT:2] - Secondary Color-->
+	<!-- [PAINT:3] - Pearlescent Color -->
+	<!-- [PAINT:4] - Wheel/Rim Color -->
+	<!-- [PAINT:5] - Benny?s Interior Trim Color -->
+	<!-- [PAINT:6] - Benny?s Dashboard Color -->
+<!-- </indices> -->
+<CVehicleModelInfoVariation>
+	<variationData>
+		<Item>
+		<modelName>h4rentitymtr</modelName>
+		<colors>
+        <Item>
+          <indices content="char_array">
+            7
+            8
+            5
+            0
+            7
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            8
+            5
+            0
+            7
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            38
+            8
+            5
+            0
+            7
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            50
+            8
+            5
+            0
+            7
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            64
+            8
+            5
+            0
+            7
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>  
+        <Item>
+          <indices content="char_array">
+            70
+            8
+            5
+            0
+            7
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            89
+            8
+            5
+            0
+            7
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>  
+        <Item>
+          <indices content="char_array">
+            112
+            8
+            5
+            0
+            7
+            89
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>  
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            2
+            0
+            111
+            111
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>      
+		</colors>
+		<kits>
+		<Item>0_default_modkit</Item>
+		</kits>
+		<windowsWithExposedEdges />
+		<plateProbabilities>
+		<Probabilities>
+			<Item>
+				<Name>Standard White</Name>
+				<Value value="20" />
+			</Item>
+			<Item>
+				<Name>White Plate 2</Name>
+				<Value value="20" />
+			</Item>
+			<Item>
+				<Name>Blue Plate</Name>
+				<Value value="20" />
+			</Item>
+			<Item>
+				<Name>Yellow Plate</Name>
+				<Value value="20" />
+			</Item>
+			<Item>
+				<Name>yankton plate</Name>
+				<Value value="20" />
+			</Item>
+			</Probabilities>
+		</plateProbabilities>
+		<lightSettings value="191" />
+		<sirenSettings value="0" />
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>

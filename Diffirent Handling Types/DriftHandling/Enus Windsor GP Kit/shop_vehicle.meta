@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+	<Item>
+		<lockHash>CU_VEH_h4rxwindsorcus</lockHash>
+		<modelNameHash>h4rxwindsorcus</modelNameHash>
+		<cost value="100"/>
+		<textLabel>h4rxwindsorcus</textLabel>
+		<textLabel></textLabel>
+	</Item>
+	</Vehicles>
+</ShopVehicleDataArray>

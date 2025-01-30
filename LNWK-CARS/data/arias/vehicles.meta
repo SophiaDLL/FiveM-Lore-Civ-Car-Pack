@@ -16,7 +16,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>argento</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>ASBO_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

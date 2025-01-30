@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_VEH_JESTGPR</lockHash>
+			<modelNameHash>jestgpr</modelNameHash>
+			<cost value ="100"/>
+			<textLabel>JESTGPR</textLabel>
+			<vehicleMods />
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>

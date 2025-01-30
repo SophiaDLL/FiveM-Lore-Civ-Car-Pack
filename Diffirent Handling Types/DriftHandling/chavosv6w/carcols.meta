@@ -1,0 +1,2763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>
+	<Kits>
+		<Item>
+			<kitName>112592_chavosv6w_modkit</kitName>
+			<id value="112592" />
+			<kitType>MKT_SPECIAL</kitType>
+			<visibleMods>
+				<!-- LIVERIES -->
+				<Item>
+					<modelName>chavosv6_liv1</modelName>
+					<modShopLabel>CHAV6_LIV1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_LIVERY_MOD</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_liv2</modelName>
+					<modShopLabel>CHAV6_LIV2</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_LIVERY_MOD</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_liv3</modelName>
+					<modShopLabel>CHAV6_LIV3</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_LIVERY_MOD</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_liv4</modelName>
+					<modShopLabel>CHAV6_LIV4</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_LIVERY_MOD</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_liv5</modelName>
+					<modShopLabel>CHAV6_LIV5</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_LIVERY_MOD</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_liv6</modelName>
+					<modShopLabel>CHAV6_LIV6</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_LIVERY_MOD</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_liv7</modelName>
+					<modShopLabel>CHAV6_LIV7</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_LIVERY_MOD</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_liv8</modelName>
+					<modShopLabel>CHAV6_LIV8</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_LIVERY_MOD</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_liv9</modelName>
+					<modShopLabel>CHAV6_LIV9</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_LIVERY_MOD</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_liv10</modelName>
+					<modShopLabel>CHAV6_LIV10</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_LIVERY_MOD</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- HOODS -->
+				<Item>
+					<modelName>chavosv6_hood2</modelName>
+					<modShopLabel>CHAV6_HOOD2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood3</modelName>
+					<modShopLabel>CHAV6_HOOD3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood4</modelName>
+					<modShopLabel>CHAV6_HOOD4</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood5</modelName>
+					<modShopLabel>CHAV6_HOOD5</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood6</modelName>
+					<modShopLabel>CHAV6_HOOD6</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood7</modelName>
+					<modShopLabel>CHAV6_HOOD7</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood8</modelName>
+					<modShopLabel>CHAV6_HOOD8</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood9</modelName>
+					<modShopLabel>CHAV6_HOOD9</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood10</modelName>
+					<modShopLabel>CHAV6_HOOD10</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood11</modelName>
+					<modShopLabel>CHAV6_HOOD11</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood12</modelName>
+					<modShopLabel>CHAV6_HOOD12</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood13</modelName>
+					<modShopLabel>CHAV6_HOOD13</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood14</modelName>
+					<modShopLabel>CHAV6_HOOD14</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood15</modelName>
+					<modShopLabel>CHAV6_HOOD15</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood16</modelName>
+					<modShopLabel>CHAV6_HOOD16</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood17</modelName>
+					<modShopLabel>CHAV6_HOOD17</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_hood18</modelName>
+					<modShopLabel>CHAV6_HOOD18</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- EXHAUST -->
+				<Item>
+					<modelName>chavosv6_exh2</modelName>
+					<modShopLabel>CHAV6_EX2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_b</Item>
+						<Item>exhaust_3</Item>
+						<Item>exhaust_4</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_exh3</modelName>
+					<modShopLabel>CHAV6_EX3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_b</Item>
+						<Item>exhaust_5</Item>
+						<Item>exhaust_6</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_exh4</modelName>
+					<modShopLabel>CHAV6_EX4</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_b</Item>
+						<Item>exhaust_7</Item>
+						<Item>exhaust_8</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_exh5</modelName>
+					<modShopLabel>CHAV6_EX5</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_b</Item>
+						<Item>exhaust_9</Item>
+						<Item>exhaust_10</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_exh6</modelName>
+					<modShopLabel>CHAV6_EX6</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_b</Item>
+						<Item>exhaust_11</Item>
+						<Item>exhaust_12</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- COVER_&_PLATED_WINDSCREEN -->
+				<Item>
+					<modelName>chavosv6_armor2</modelName>
+					<modShopLabel>CHAV6_ARMOR_2</modShopLabel>
+					<linkedModels />
+					<turnOffBones	/>
+					<type>VMT_ROOF</type>
+					<bone>windscreen_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_armor3</modelName>
+					<modShopLabel>CHAV6_ARMOR_3</modShopLabel>
+					<linkedModels />
+					<turnOffBones	/>
+					<type>VMT_ROOF</type>
+					<bone>windscreen_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_armor4</modelName>
+					<modShopLabel>CHAV6_ARMOR_4</modShopLabel>
+					<linkedModels />
+					<turnOffBones	/>
+					<type>VMT_ROOF</type>
+					<bone>windscreen_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_armor5</modelName>
+					<modShopLabel>CHAV6_ARMOR_5</modShopLabel>
+					<linkedModels />
+					<turnOffBones	/>
+					<type>VMT_ROOF</type>
+					<bone>windscreen_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_armor6</modelName>
+					<modShopLabel>CHAV6_ARMOR_6</modShopLabel>
+					<linkedModels />
+					<turnOffBones	/>
+					<type>VMT_ROOF</type>
+					<bone>windscreen_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_armor7</modelName>
+					<modShopLabel>CHAV6_ARMOR_7</modShopLabel>
+					<linkedModels />
+					<turnOffBones	/>
+					<type>VMT_ROOF</type>
+					<bone>windscreen_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_armor8</modelName>
+					<modShopLabel>CHAV6_ARMOR_8</modShopLabel>
+					<linkedModels />
+					<turnOffBones	/>
+					<type>VMT_ROOF</type>
+					<bone>windscreen_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_armor9</modelName>
+					<modShopLabel>CHAV6_ARMOR_9</modShopLabel>
+					<linkedModels />
+					<turnOffBones	/>
+					<type>VMT_ROOF</type>
+					<bone>windscreen_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_armor10</modelName>
+					<modShopLabel>CHAV6_ARMOR_10</modShopLabel>
+					<linkedModels />
+					<turnOffBones	/>
+					<type>VMT_ROOF</type>
+					<bone>windscreen_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- COVER_&_PLATED_SIDEWINDOW -->
+				<Item>
+					<modelName>chavosv6_warmor2a</modelName>
+					<modShopLabel>CHAV6_WARMOR_2</modShopLabel>
+					<linkedModels>
+						<Item>chavosv6_warmor2b</Item>
+					</linkedModels>
+					<turnOffBones	/>
+					<type>VMT_WING_R</type>
+					<bone>misc_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_warmor3a</modelName>
+					<modShopLabel>CHAV6_WARMOR_3</modShopLabel>
+					<linkedModels>
+						<Item>chavosv6_warmor3b</Item>
+					</linkedModels>
+					<turnOffBones	/>
+					<type>VMT_WING_R</type>
+					<bone>misc_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_warmor4a</modelName>
+					<modShopLabel>CHAV6_WARMOR_4</modShopLabel>
+					<linkedModels>
+						<Item>chavosv6_warmor4b</Item>
+					</linkedModels>
+					<turnOffBones	/>
+					<type>VMT_WING_R</type>
+					<bone>misc_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_warmor5a</modelName>
+					<modShopLabel>CHAV6_WARMOR_5</modShopLabel>
+					<linkedModels>
+						<Item>chavosv6_warmor5b</Item>
+					</linkedModels>
+					<turnOffBones	/>
+					<type>VMT_WING_R</type>
+					<bone>misc_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- SPOILER -->
+				<Item>
+					<modelName>chavosv6_wing2</modelName>
+					<modShopLabel>CHAV6_WING2</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing3</modelName>
+					<modShopLabel>CHAV6_WING3</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing4</modelName>
+					<modShopLabel>CHAV6_WING4</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing5</modelName>
+					<modShopLabel>CHAV6_WING5</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing6</modelName>
+					<modShopLabel>CHAV6_WING6</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing7</modelName>
+					<modShopLabel>CHAV6_WING7</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing8</modelName>
+					<modShopLabel>CHAV6_WING8</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_2</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing9</modelName>
+					<modShopLabel>CHAV6_WING9</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_2</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing10</modelName>
+					<modShopLabel>CHAV6_WING10</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_2</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing11</modelName>
+					<modShopLabel>CHAV6_WING11</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing12</modelName>
+					<modShopLabel>CHAV6_WING12</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing13</modelName>
+					<modShopLabel>CHAV6_WING13</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing14</modelName>
+					<modShopLabel>CHAV6_WING14</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing15</modelName>
+					<modShopLabel>CHAV6_WING15</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing16</modelName>
+					<modShopLabel>CHAV6_WING16</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing17</modelName>
+					<modShopLabel>CHAV6_WING17</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_wing18</modelName>
+					<modShopLabel>CHAV6_WING18</modShopLabel>
+					<linkedModels></linkedModels>
+					<turnOffBones></turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- SIDE SKIRTS -->
+				<Item>
+					<modelName>chavosv6_skirt2</modelName>
+					<modShopLabel>CHAV6_SKRT2</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt3</modelName>
+					<modShopLabel>CHAV6_SKRT3</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt4</modelName>
+					<modShopLabel>CHAV6_SKRT4</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt5</modelName>
+					<modShopLabel>CHAV6_SKRT5</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt6</modelName>
+					<modShopLabel>CHAV6_SKRT6</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt7</modelName>
+					<modShopLabel>CHAV6_SKRT7</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt8</modelName>
+					<modShopLabel>CHAV6_SKRT8</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt9</modelName>
+					<modShopLabel>CHAV6_SKRT9</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt10</modelName>
+					<modShopLabel>CHAV6_SKRT10</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt11</modelName>
+					<modShopLabel>CHAV6_SKRT11</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt12</modelName>
+					<modShopLabel>CHAV6_SKRT12</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt13</modelName>
+					<modShopLabel>CHAV6_SKRT13</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt14</modelName>
+					<modShopLabel>CHAV6_SKRT14</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt15</modelName>
+					<modShopLabel>CHAV6_SKRT15</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt16</modelName>
+					<modShopLabel>CHAV6_SKRT16</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt17</modelName>
+					<modShopLabel>CHAV6_SKRT17</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt18</modelName>
+					<modShopLabel>CHAV6_SKRT18</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt19</modelName>
+					<modShopLabel>CHAV6_SKRT19</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_skirt20</modelName>
+					<modShopLabel>CHAV6_SKRT20</modShopLabel>
+					<linkedModels />
+					<turnOffBones></turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- GRILL -->
+				<Item>
+					<modelName>chavosv6_grill2</modelName>
+					<modShopLabel>CHAV6_GRLL2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_e</Item>
+					</turnOffBones>
+					<type>VMT_GRILL</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_grill3</modelName>
+					<modShopLabel>CHAV6_GRLL3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_e</Item>
+					</turnOffBones>
+					<type>VMT_GRILL</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_grill4</modelName>
+					<modShopLabel>CHAV6_GRLL4</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_e</Item>
+					</turnOffBones>
+					<type>VMT_GRILL</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_grill5</modelName>
+					<modShopLabel>CHAV6_GRLL5</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_e</Item>
+					</turnOffBones>
+					<type>VMT_GRILL</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- SPLITTER -->
+				<Item>
+					<modelName>chavosv6_spliter2</modelName>
+					<modShopLabel>CHAV6_SPLIT2</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter3</modelName>
+					<modShopLabel>CHAV6_SPLIT3</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter4</modelName>
+					<modShopLabel>CHAV6_SPLIT4</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter5</modelName>
+					<modShopLabel>CHAV6_SPLIT5</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter6</modelName>
+					<modShopLabel>CHAV6_SPLIT6</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter7</modelName>
+					<modShopLabel>CHAV6_SPLIT7</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter8</modelName>
+					<modShopLabel>CHAV6_SPLIT8</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter9</modelName>
+					<modShopLabel>CHAV6_SPLIT9</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter10</modelName>
+					<modShopLabel>CHAV6_SPLIT10</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter11</modelName>
+					<modShopLabel>CHAV6_SPLIT11</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter12</modelName>
+					<modShopLabel>CHAV6_SPLIT12</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter13</modelName>
+					<modShopLabel>CHAV6_SPLIT13</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter14</modelName>
+					<modShopLabel>CHAV6_SPLIT14</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter15</modelName>
+					<modShopLabel>CHAV6_SPLIT15</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter16</modelName>
+					<modShopLabel>CHAV6_SPLIT16</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter17</modelName>
+					<modShopLabel>CHAV6_SPLIT17</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter18</modelName>
+					<modShopLabel>CHAV6_SPLIT18</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter19</modelName>
+					<modShopLabel>CHAV6_SPLIT19</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter20</modelName>
+					<modShopLabel>CHAV6_SPLIT20</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter21</modelName>
+					<modShopLabel>CHAV6_SPLIT21</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter22</modelName>
+					<modShopLabel>CHAV6_SPLIT22</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter23</modelName>
+					<modShopLabel>CHAV6_SPLIT23</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter24</modelName>
+					<modShopLabel>CHAV6_SPLIT24</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_spliter25</modelName>
+					<modShopLabel>CHAV6_SPLIT25</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS5</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- STRIP -->
+				<Item>
+					<modelName>chavosv6_strip2</modelName>
+					<modShopLabel>CHAV6_STRIP_2</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_CHASSIS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="3" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_strip3</modelName>
+					<modShopLabel>CHAV6_STRIP_3</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_CHASSIS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="3" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_strip4</modelName>
+					<modShopLabel>CHAV6_STRIP_4</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_CHASSIS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="3" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- BUMPER_REAR -->
+				<Item>
+					<modelName>chavosv6_bumr2</modelName>
+					<modShopLabel>CHAV6_BUMR_2</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr3</modelName>
+					<modShopLabel>CHAV6_BUMR_3</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr4</modelName>
+					<modShopLabel>CHAV6_BUMR_4</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr5</modelName>
+					<modShopLabel>CHAV6_BUMR_5</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr6</modelName>
+					<modShopLabel>CHAV6_BUMR_6</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr7</modelName>
+					<modShopLabel>CHAV6_BUMR_7</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr8</modelName>
+					<modShopLabel>CHAV6_BUMR_8</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr9</modelName>
+					<modShopLabel>CHAV6_BUMR_9</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr10</modelName>
+					<modShopLabel>CHAV6_BUMR_10</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr11</modelName>
+					<modShopLabel>CHAV6_BUMR_11</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr12</modelName>
+					<modShopLabel>CHAV6_BUMR_12</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr13</modelName>
+					<modShopLabel>CHAV6_BUMR_13</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr14</modelName>
+					<modShopLabel>CHAV6_BUMR_14</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr15</modelName>
+					<modShopLabel>CHAV6_BUMR_15</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr16</modelName>
+					<modShopLabel>CHAV6_BUMR_16</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr17</modelName>
+					<modShopLabel>CHAV6_BUMR_17</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr18</modelName>
+					<modShopLabel>CHAV6_BUMR_18</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr19</modelName>
+					<modShopLabel>CHAV6_BUMR_19</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_bumr20</modelName>
+					<modShopLabel>CHAV6_BUMR_20</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- MIRROR -->
+				<Item>
+					<modelName>chavosv6_mirr2a</modelName>
+					<modShopLabel>CHAV6_MIRR2</modShopLabel>
+					<linkedModels>
+						<Item>chavosv6_mirr2b</Item>
+					</linkedModels>
+					<turnOffBones>
+						<Item>misc_c</Item>
+						<Item>misc_d</Item>
+					</turnOffBones>
+					<type>VMT_WING_L</type>
+					<bone>door_dside_f</bone>
+					<collisionBone>door_dside_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_mirr3a</modelName>
+					<modShopLabel>CHAV6_MIRR3</modShopLabel>
+					<linkedModels>
+						<Item>chavosv6_mirr3b</Item>
+					</linkedModels>
+					<turnOffBones>
+						<Item>misc_c</Item>
+						<Item>misc_d</Item>
+					</turnOffBones>
+					<type>VMT_WING_L</type>
+					<bone>door_dside_f</bone>
+					<collisionBone>door_dside_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_mirr4a</modelName>
+					<modShopLabel>CHAV6_MIRR4</modShopLabel>
+					<linkedModels>
+						<Item>chavosv6_mirr4b</Item>
+					</linkedModels>
+					<turnOffBones>
+						<Item>misc_c</Item>
+						<Item>misc_d</Item>
+					</turnOffBones>
+					<type>VMT_WING_L</type>
+					<bone>door_dside_f</bone>
+					<collisionBone>door_dside_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_mirr5a</modelName>
+					<modShopLabel>CHAV6_MIRR5</modShopLabel>
+					<linkedModels>
+						<Item>chavosv6_mirr5b</Item>
+					</linkedModels>
+					<turnOffBones>
+						<Item>misc_c</Item>
+						<Item>misc_d</Item>
+					</turnOffBones>
+					<type>VMT_WING_L</type>
+					<bone>door_dside_f</bone>
+					<collisionBone>door_dside_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+			</visibleMods>
+			<linkMods>
+				<Item>
+					<modelName>chavosv6_warmor2b</modelName>
+					<bone>misc_g</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_warmor3b</modelName>
+					<bone>misc_g</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_warmor4b</modelName>
+					<bone>misc_g</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_warmor5b</modelName>
+					<bone>misc_g</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_mirr2b</modelName>
+					<bone>door_pside_f</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_mirr3b</modelName>
+					<bone>door_pside_f</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_mirr4b</modelName>
+					<bone>door_pside_f</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>chavosv6_mirr5b</modelName>
+					<bone>door_pside_f</bone>
+					<turnOffExtra value="false" />
+				</Item>
+			</linkMods>
+			<statMods>
+				<Item>
+					<identifier />
+					<modifier value="33" />
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="66" />
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="99" />
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="132" />
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="50" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="100" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="150" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="50" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="100" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="200" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="20" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="35" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="50" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="65" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="20" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="40" />
+					<audioApply value="1.000000" />
+					<weight value="10" />
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="60" />
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="80" />
+					<audioApply value="1.000000" />
+					<weight value="30" />
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="100" />
+					<audioApply value="1.000000" />
+					<weight value="40" />
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier>HORN_TRUCK</identifier>
+					<modifier value="1766676233" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_COP</identifier>
+					<modifier value="2904189469" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_CLOWN</identifier>
+					<modifier value="2543206147" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_1</identifier>
+					<modifier value="1732399718" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_2</identifier>
+					<modifier value="2046162893" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_3</identifier>
+					<modifier value="2194999691" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_4</identifier>
+					<modifier value="2508304100" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_5</identifier>
+					<modifier value="3707223535" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_SAD_TROMBONE</identifier>
+					<modifier value="632950117" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+					<modifier value="3628534289" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+					<modifier value="3892554122" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+					<modifier value="4112892878" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+					<modifier value="116877169" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+					<modifier value="2684983719" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+					<modifier value="2982690084" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+					<modifier value="3203290992" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+					<modifier value="771284519" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+					<modifier value="2586621229" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+					<modifier value="283386134" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+					<modifier value="3884502400" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+					<modifier value="265723083" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+					<modifier value="1746883687" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+					<modifier value="1919870950" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+					<modifier value="1085277077" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_1</identifier>
+					<modifier value="444549672" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_2</identifier>
+					<modifier value="1603064898" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_3</identifier>
+					<modifier value="240366033" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_4</identifier>
+					<modifier value="960137118" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_1</identifier>
+					<modifier value="3572144790" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_2</identifier>
+					<modifier value="3801396714" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_3</identifier>
+					<modifier value="2843657151" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_4</identifier>
+					<modifier value="3341811489" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXE_HORN_1</identifier>
+					<modifier value="3199657341" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXE_HORN_2</identifier>
+					<modifier value="2900378064" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXE_HORN_3</identifier>
+					<modifier value="3956195248" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>LUXORY_HORN_1</identifier>
+					<modifier value="676333254" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>LUXURY_HORN_2</identifier>
+					<modifier value="2099578296" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>LUXURY_HORN_3</identifier>
+					<modifier value="1373384483" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_01</identifier>
+					<modifier value="2916775806" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+					<modifier value="3714706952" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_02</identifier>
+					<modifier value="2611860261" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+					<modifier value="3206770359" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LOWRIDER_HORN_1</identifier>
+					<modifier value="310529291" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+					<modifier value="2965568987" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LOWRIDER_HORN_2</identifier>
+					<modifier value="55291550" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+					<modifier value="965054819" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>XM15_HORN_01</identifier>
+					<modifier value="55862314" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>XM15_HORN_01_PREVIEW</identifier>
+					<modifier value="2156743178" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>XM15_HORN_02</identifier>
+					<modifier value="400002352" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>XM15_HORN_02_PREVIEW</identifier>
+					<modifier value="897484282" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>XM15_HORN_03</identifier>
+					<modifier value="560832604" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>XM15_HORN_03_PREVIEW</identifier>
+					<modifier value="314232747" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_AW_Airhorn_01</identifier>
+					<modifier value="3851180092" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>DLC_AW_Airhorn_01_Preview</identifier>
+					<modifier value="246182814" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_AW_Airhorn_02</identifier>
+					<modifier value="3412861948" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>DLC_AW_Airhorn_02_Preview</identifier>
+					<modifier value="1804608241" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_AW_Airhorn_03</identifier>
+					<modifier value="3374260066" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>DLC_AW_Airhorn_03_Preview</identifier>
+					<modifier value="2798044638" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+			</statMods>
+			<slotNames>
+				<Item>
+					<slot>VMT_WING_L</slot>
+					<name>TOP_MIR</name>
+				</Item>
+				<Item>
+					<slot>VMT_WING_R</slot>
+					<name>CMOD_SLOU_N</name>
+				</Item>
+				<Item>
+					<slot>VMT_ROOF</slot>
+					<name>TOP_LOUV</name>
+				</Item>
+				<Item>
+					<slot>VMT_CHASSIS5</slot>
+					<name>TOP_SPLIT</name>
+				</Item>
+				<Item>
+					<slot>VMT_BUMPER_R</slot>
+					<name>TOP_RDIFF</name>
+				</Item>
+				<Item>
+					<slot>VMT_CHASSIS</slot>
+					<name>TOP_SUNST</name>
+				</Item>
+			</slotNames>
+			<liveryNames />
+		</Item>
+	</Kits>
+	<Lights />
+</CVehicleModelInfoVarGlobal>
