@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_PENTRO_VEH</lockHash>
+			<modelNameHash>pentro</modelNameHash>
+			<cost value ="50"/>
+			<textLabel>pentro</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+		<Item>
+			<lockHash>CU_PENTRO2_VEH</lockHash>
+			<modelNameHash>pentro2</modelNameHash>
+			<cost value ="50"/>
+			<textLabel>pentro2</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+		<Item>
+			<lockHash>CU_PENTRO3_VEH</lockHash>
+			<modelNameHash>pentro3</modelNameHash>
+			<cost value ="50"/>
+			<textLabel>pentro3</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+		<Item>
+			<lockHash>CU_PENTROGPR_VEH</lockHash>
+			<modelNameHash>pentrogpr</modelNameHash>
+			<cost value ="100"/>
+			<textLabel>pentrogpr</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+		<Item>
+			<lockHash>CU_PENTROGPR2_VEH</lockHash>
+			<modelNameHash>pentrogpr2</modelNameHash>
+			<cost value ="100"/>
+			<textLabel>pentrogpr2</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>

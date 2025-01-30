@@ -1,0 +1,3037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+
+    <Item>
+      <kitName>4989_comet6scw_modkit</kitName>
+      <id value="4989" />	 	  
+      <kitType>MKT_SPECIAL</kitType>
+     <visibleMods>
+	<!-- EXHAUST -->
+       <Item>
+          <modelName>comet6_exh_a</modelName>
+          <modShopLabel>comet6_exh_a</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_exh_b</modelName>
+          <modShopLabel>comet6_exh_b</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_exh_c</modelName>
+          <modShopLabel>comet6_exh_c</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_f</Item>
+		  </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_exh_d</modelName>
+          <modShopLabel>comet6_exh_d</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_f</Item>
+         	<Item>exhaust</Item>
+         	<Item>exhaust_2</Item>
+		  </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_exh_e</modelName>
+          <modShopLabel>comet6_exh_e</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_f</Item>
+         	<Item>exhaust</Item>
+         	<Item>exhaust_2</Item>
+		  </turnOffBones> 
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- SPOILER -->
+       <Item>
+          <modelName>comet6_spoiler_a</modelName>
+          <modShopLabel>comet6_spoiler_a</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>misc_m</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_b</modelName>
+          <modShopLabel>comet6_spoiler_b</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>misc_m</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_c</modelName>
+          <modShopLabel>comet6_spoiler_c</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>misc_m</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_1c</modelName>
+          <modShopLabel>comet6_spoiler_1c</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>misc_m</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_2c</modelName>
+          <modShopLabel>comet6_spoiler_2c</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>misc_m</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_d</modelName>
+          <modShopLabel>comet6_spoiler_d</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_e</modelName>
+          <modShopLabel>comet6_spoiler_e</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_11</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_f</modelName>
+          <modShopLabel>comet6_spoiler_f</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_11</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_g</modelName>
+          <modShopLabel>comet6_spoiler_g</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_h</modelName>
+          <modShopLabel>comet6_spoiler_h</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_i</modelName>
+          <modShopLabel>comet6_spoiler_i</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_j</modelName>
+          <modShopLabel>comet6_spoiler_j</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_k</modelName>
+          <modShopLabel>comet6_spoiler_k</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_l</modelName>
+          <modShopLabel>comet6_spoiler_l</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_m</modelName>
+          <modShopLabel>comet6_spoiler_m</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_n</modelName>
+          <modShopLabel>comet6_spoiler_n</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_o</modelName>
+          <modShopLabel>comet6_spoiler_o</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_p</modelName>
+          <modShopLabel>comet6_spoiler_p</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_q</modelName>
+          <modShopLabel>comet6_spoiler_q</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_r</modelName>
+          <modShopLabel>comet6_spoiler_r</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_s</modelName>
+          <modShopLabel>comet6_spoiler_s</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_t</modelName>
+          <modShopLabel>comet6_spoiler_t</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_u</modelName>
+          <modShopLabel>comet6_spoiler_u</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_spoiler_v</modelName>
+          <modShopLabel>comet6_spoiler_v</modShopLabel>
+          <linkedModels>
+			<Item>comet6_fixedwing</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_n</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- WIND DEFLECTORS -->
+        <Item>
+          <modelName>comet6_wd_a</modelName>
+          <modShopLabel>comet6_wd_a</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_wd_b</modelName>
+          <modShopLabel>comet6_wd_b</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_wd_c</modelName>
+          <modShopLabel>comet6_wd_c</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- HLIGHT -->
+       <Item>
+          <modelName>comet6_hlight_la</modelName>
+          <modShopLabel>comet6_hlight_la</modShopLabel>
+          <linkedModels>
+			<Item>comet6_hlight_ra</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_l</Item>
+         	<Item>misc_w</Item>
+		  </turnOffBones> 
+          <type>VMT_CHASSIS2</type>
+          <bone>misc_v</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hlight_lb</modelName>
+          <modShopLabel>comet6_hlight_lb</modShopLabel>
+          <linkedModels>
+			<Item>comet6_hlight_rb</Item>
+          </linkedModels>
+		  <turnOffBones /> 
+          <type>VMT_CHASSIS2</type>
+          <bone>misc_v</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hlight_lc</modelName>
+          <modShopLabel>comet6_hlight_lc</modShopLabel>
+          <linkedModels>
+			<Item>comet6_hlight_rc</Item>
+          </linkedModels>
+		  <turnOffBones /> 
+          <type>VMT_CHASSIS2</type>
+          <bone>misc_v</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hlight_ld</modelName>
+          <modShopLabel>comet6_hlight_ld</modShopLabel>
+          <linkedModels>
+			<Item>comet6_hlight_rd</Item>
+          </linkedModels>
+		  <turnOffBones /> 
+          <type>VMT_CHASSIS2</type>
+          <bone>misc_v</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hlight_i</modelName>
+          <modShopLabel>comet6_hlight_i</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_l</Item>
+         	<Item>misc_w</Item>
+		  </turnOffBones> 
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hlight_e</modelName>
+          <modShopLabel>comet6_hlight_e</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_l</Item>
+         	<Item>misc_w</Item>
+		  </turnOffBones> 
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hlight_f</modelName>
+          <modShopLabel>comet6_hlight_f</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_l</Item>
+         	<Item>misc_w</Item>
+         	<Item>headlight_l</Item>
+         	<Item>headlight_r</Item>
+		  </turnOffBones> 
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hlight_g</modelName>
+          <modShopLabel>comet6_hlight_g</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_l</Item>
+         	<Item>misc_w</Item>
+         	<Item>headlight_l</Item>
+         	<Item>headlight_r</Item>
+		  </turnOffBones> 
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hlight_h</modelName>
+          <modShopLabel>comet6_hlight_h</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_l</Item>
+         	<Item>misc_w</Item>
+         	<Item>headlight_l</Item>
+         	<Item>headlight_r</Item>
+		  </turnOffBones> 
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_null</modelName>
+          <modShopLabel>COMET6_BUMR0</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_i</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_null</modelName>
+          <modShopLabel>COMET6_BUMR1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_i</Item>
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_null</modelName>
+          <modShopLabel>COMET6_BUMR2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_i</Item>
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>bumper_r</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_diffuser_a</modelName>
+          <modShopLabel>COMET6_DIFFA</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_diffuser_b</modelName>
+          <modShopLabel>COMET6_DIFFB</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_lbumr_b</modelName>
+          <modShopLabel>COMET6_BUMRA</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_i</Item>
+         	<Item>misc_d</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_lbumr_c</modelName>
+          <modShopLabel>COMET6_BUMRB</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_i</Item>
+         	<Item>misc_d</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_lbumr_a</modelName>
+          <modShopLabel>COMET6_BUMRC</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_d</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_ubumr_a</modelName>
+          <modShopLabel>COMET6_BUMRD</modShopLabel>
+          <linkedModels>
+            <Item>comet6_lbumr_b</Item>
+            <Item>comet6_diffuser_a</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_i</Item>
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>bumper_r</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_ubumr_a</modelName>
+          <modShopLabel>COMET6_BUMRE</modShopLabel>
+          <linkedModels>
+            <Item>comet6_lbumr_a</Item>
+            <Item>comet6_diffuser_a</Item>
+          </linkedModels>
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+         	<Item>misc_d</Item>
+         	<Item>bumper_r</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- PLATES -->
+        <Item>
+          <modelName>elegy1_null</modelName>
+          <modShopLabel>ELEGY1_PLT1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_plate_a</modelName>
+          <modShopLabel>ELEGY1_PLT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_plate_b</modelName>
+          <modShopLabel>ELEGY1_PLT3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- SPLITTERS -->
+        <Item>
+          <modelName>comet6_splitter_a</modelName>
+          <modShopLabel>COMET6_SPLTA</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_PLTVANITY</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_splitter_b</modelName>
+          <modShopLabel>COMET6_SPLTB</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_PLTVANITY</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- HOODS -->
+       <Item>
+          <modelName>comet6_hood_a</modelName>
+          <modShopLabel>COMET6_HOODA</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_b</modelName>
+          <modShopLabel>COMET6_HOODB</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_c</modelName>
+          <modShopLabel>COMET6_HOODC</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_d</modelName>
+          <modShopLabel>COMET6_HOODD</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_e</modelName>
+          <modShopLabel>COMET6_HOODE</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_f</modelName>
+          <modShopLabel>COMET6_HOODF</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_g</modelName>
+          <modShopLabel>COMET6_HOODG</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_h</modelName>
+          <modShopLabel>COMET6_HOODH</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_i</modelName>
+          <modShopLabel>COMET6_HOODI</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_j</modelName>
+          <modShopLabel>COMET6_HOODJ</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_k</modelName>
+          <modShopLabel>COMET6_HOODK</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_l</modelName>
+          <modShopLabel>COMET6_HOODL</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_m</modelName>
+          <modShopLabel>COMET6_HOODM</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_hood_n</modelName>
+          <modShopLabel>COMET6_HOODN</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_g</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- FOGS -->
+       <Item>
+          <modelName>comet6_foglights_a</modelName>
+          <modShopLabel>COMET6_FOGA</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_WING_R</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_foglights_b</modelName>
+          <modShopLabel>COMET6_FOGB</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_WING_R</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_foglights_c</modelName>
+          <modShopLabel>COMET6_FOGC</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_WING_R</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- CATCHES -->
+        <Item>
+          <modelName>comet6_catcha</modelName>
+          <modShopLabel>ELEGY1_CTCH1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS3</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_catchb</modelName>
+          <modShopLabel>ELEGY1_CTCH2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS3</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_catchc</modelName>
+          <modShopLabel>ELEGY1_CTCH3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS3</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>comet6_hudpin_3</modelName>
+          <modShopLabel>VTC_HACC_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>comet6_hudpin_3a</modelName>
+          <modShopLabel>VTC_HACC_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>comet6_hudpin_3b</modelName>
+          <modShopLabel>VTC_HACC_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>comet6_hudpin_3c</modelName>
+          <modShopLabel>VTC_HACC_6</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- ROOF -->
+       <Item>
+          <modelName>comet6_roof_a</modelName>
+          <modShopLabel>COMET6_ROOFA</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_roof_b</modelName>
+          <modShopLabel>COMET6_ROOFB</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_b</Item>
+		  </turnOffBones> 
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- ROOF ACCESSORIES -->
+       <Item>
+          <modelName>comet6_roof2_a</modelName>
+          <modShopLabel>COMET6_ROOF2A</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_roof2_b</modelName>
+          <modShopLabel>COMET6_ROOF2B</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_roof2_c</modelName>
+          <modShopLabel>COMET6_ROOF2C</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_roof2_d</modelName>
+          <modShopLabel>COMET6_ROOF2D</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6_roof2_e</modelName>
+          <modShopLabel>COMET6_ROOF2E</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>comet6scw_roof11</modelName>
+          <modShopLabel>comet6scw_roof11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- SUN STRIP -->
+        <Item>
+          <modelName>comet6_strip_a</modelName>
+          <modShopLabel>SUL_STRIP</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_strip_B</modelName>
+          <modShopLabel>COMET6_STRIP</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- CAGE-->
+        <Item>
+          <modelName>comet6_cage1</modelName>
+          <modShopLabel>SULTAN_CAGE1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_cage2</modelName>
+          <modShopLabel>SULTAN_CAGE2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_cage3</modelName>
+          <modShopLabel>SULTAN_CAGE3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_cage4</modelName>
+          <modShopLabel>SULTAN_CAGE4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_cage5</modelName>
+          <modShopLabel>SULTAN_CAGE5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- DASH -->
+        <Item>
+          <modelName>comet6_dash_a</modelName>
+          <modShopLabel>COMET6_DASHA</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_dash_b</modelName>
+          <modShopLabel>COMET6_DASHB</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_dash_c</modelName>
+          <modShopLabel>COMET6_DASHC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_dash_d</modelName>
+          <modShopLabel>COMET6_DASHD</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>misc_p</Item>
+            <Item>misc_u</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_dash_e</modelName>
+          <modShopLabel>COMET6_DASHE</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>misc_p</Item>
+            <Item>misc_u</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_dash_f</modelName>
+          <modShopLabel>COMET6_DASHF</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>misc_p</Item>
+            <Item>misc_u</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_dash_g</modelName>
+          <modShopLabel>COMET6_DASHG</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>misc_p</Item>
+            <Item>misc_u</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- DOORS -->
+        <Item>
+          <modelName>comet6_door1l</modelName>
+          <modShopLabel>SULTAN_DOOR2</modShopLabel>
+          <linkedModels>
+            <Item>comet6_door1r</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_j</Item>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR5</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_door2l</modelName>
+          <modShopLabel>SULTAN_DOOR1</modShopLabel>
+          <linkedModels>
+            <Item>comet6_door2r</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_j</Item>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR5</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_door3l</modelName>
+          <modShopLabel>SULTAN_DOOR6</modShopLabel>
+          <linkedModels>
+            <Item>comet6_door3r</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_j</Item>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR5</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_door4l</modelName>
+          <modShopLabel>SULTAN_DOOR7</modShopLabel>
+          <linkedModels>
+            <Item>comet6_door4r</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_j</Item>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR5</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- STEERING WHEELS -->	
+        <Item>
+          <modelName>comet6_stwheel1</modelName>
+          <modShopLabel>SMOD2_STEER1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel2</modelName>
+          <modShopLabel>SMOD2_STEER2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel3</modelName>
+          <modShopLabel>SMOD2_STEER3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel4</modelName>
+          <modShopLabel>SMOD2_STEER4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel5</modelName>
+          <modShopLabel>SMOD2_STEER5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel6</modelName>
+          <modShopLabel>SMOD2_STEER6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel7</modelName>
+          <modShopLabel>SMOD2_STEER7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel8</modelName>
+          <modShopLabel>SMOD2_STEER8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel9</modelName>
+          <modShopLabel>SMOD2_STEER9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel10</modelName>
+          <modShopLabel>SMOD2_STEER10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel11</modelName>
+          <modShopLabel>SMOD2_STEER11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel12</modelName>
+          <modShopLabel>SMOD2_STEER12</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel13</modelName>
+          <modShopLabel>SMOD2_STEER13</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel14</modelName>
+          <modShopLabel>SMOD2_STEER14</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel15</modelName>
+          <modShopLabel>SMOD2_STEER15</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_stwheel16</modelName>
+          <modShopLabel>SMOD2_STEER16</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<!-- SEATS -->	
+        <Item>
+          <modelName>comet6_sports1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketa1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketa2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketa3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketb1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketb2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketb3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketc1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketc2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketc3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketd1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketd2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT12</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_bucketd3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT13</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>comet6_buckete1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT15</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item> <!--(BOOST1 STARTS HERE) -->
+          <modelName>NULL</modelName>
+          <modShopLabel>comet6scw_BOOST1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item> <!--(BOOST2 STARTS HERE) -->
+          <modelName>NULL</modelName>
+          <modShopLabel>comet6scw_BOOST2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item> <!--(BOOST3 STARTS HERE) -->
+          <modelName>NULL</modelName>
+          <modShopLabel>comet6scw_BOOST3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+      <linkMods>
+      		<Item>
+          <modelName>comet6_fixedwing</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+		    </Item>
+		    <Item>
+          <modelName>comet6_hlight_ra</modelName>
+          <bone>misc_o</bone>
+          <turnOffExtra value="false" />
+		    </Item>
+		    <Item>
+          <modelName>comet6_hlight_rb</modelName>
+          <bone>misc_o</bone>
+          <turnOffExtra value="false" />
+		    </Item>
+		    <Item>
+          <modelName>comet6_hlight_rc</modelName>
+          <bone>misc_o</bone>
+          <turnOffExtra value="false" />
+		    </Item>
+		    <Item>
+          <modelName>comet6_hlight_rd</modelName>
+          <bone>misc_o</bone>
+          <turnOffExtra value="false" />
+		    </Item>
+        <Item>
+          <modelName>comet6_door1r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>comet6_door2r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>comet6_door3r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>comet6_door4r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>comet6_diffuser_a</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>comet6_diffuser_b</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>comet6_lbumr_a</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>comet6_lbumr_b</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>comet6_lbumr_c</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+      </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="150" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="5" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="10" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="15" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="35" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="45" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>     
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>           
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>	
+		<Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames />
+      <liveryNames />
+    </Item>
+    </Kits>
+</CVehicleModelInfoVarGlobal>

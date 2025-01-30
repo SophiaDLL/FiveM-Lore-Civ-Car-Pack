@@ -1,0 +1,3534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleMetadataMgr>
+  <AnimRateSets />
+  <ClipSetMaps />
+  <VehicleCoverBoundOffsetInfos>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>ASBO_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="0.050000" />
+      <ExtraForwardOffset value="-0.180000" />
+      <ExtraBackwardOffset value="-0.000000" />
+      <ExtraZOffset value="-0.200000" />
+      <CoverBoundInfos />
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>EVERON_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="0.100000" />
+      <ExtraForwardOffset value="-0.200000" />
+      <ExtraBackwardOffset value="-0.250000" />
+      <ExtraZOffset value="1.000000" />
+      <CoverBoundInfos>
+        <Item>
+          <Name>Front</Name>
+          <Position x="0.000000" y="1.950000" z="0.000000" />
+          <Length value="1.650000" />
+          <Width value="2.400000" />
+          <Height value="2.100000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>MIDDLE</Name>
+          <Position x="0.000000" y="0.125000" z="0.000000" />
+          <Length value="2.000000" />
+          <Width value="2.000000" />
+          <Height value="2.100000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>REARWHEEL</Name>
+          <Position x="0.000000" y="-1.550000" z="0.000000" />
+          <Length value="1.350000" />
+          <Width value="2.400000" />
+          <Height value="2.100000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>REAR</Name>
+          <Position x="0.000000" y="-2.550000" z="0.000000" />
+          <Length value="0.650000" />
+          <Width value="1.990000" />
+          <Height value="2.100000" />
+          <ActiveBoundExclusions />
+        </Item>
+      </CoverBoundInfos>
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>FURIA_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="0.050000" />
+      <ExtraForwardOffset value="-0.175000" />
+      <ExtraBackwardOffset value="-0.075000" />
+      <ExtraZOffset value="-0.275000" />
+      <CoverBoundInfos />
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>IMORGON_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="0.100000" />
+      <ExtraForwardOffset value="-0.200000" />
+      <ExtraBackwardOffset value="-0.250000" />
+      <ExtraZOffset value="1.000000" />
+      <CoverBoundInfos>
+        <Item>
+          <Name>Front</Name>
+          <Position x="0.000000" y="1.750000" z="-0.100000" />
+          <Length value="1.500000" />
+          <Width value="1.950000" />
+          <Height value="1.300000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>MIDDLE</Name>
+          <Position x="0.000000" y="0.200000" z="-0.100000" />
+          <Length value="1.600000" />
+          <Width value="1.800000" />
+          <Height value="1.300000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>REAR</Name>
+          <Position x="0.000000" y="-1.275000" z="-0.100000" />
+          <Length value="1.350000" />
+          <Width value="1.990000" />
+          <Height value="1.300000" />
+          <ActiveBoundExclusions />
+        </Item>
+      </CoverBoundInfos>
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>JB7002_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="-0.030000" />
+      <ExtraForwardOffset value="0.160000" />
+      <ExtraBackwardOffset value="-0.320000" />
+      <ExtraZOffset value="0.200000" />
+      <CoverBoundInfos />
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>KANJO_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="0.040000" />
+      <ExtraForwardOffset value="-0.180000" />
+      <ExtraBackwardOffset value="-0.020000" />
+      <ExtraZOffset value="-0.250000" />
+      <CoverBoundInfos />
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>KOMODA_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="-0.020000" />
+      <ExtraForwardOffset value="-0.080000" />
+      <ExtraBackwardOffset value="-0.150000" />
+      <ExtraZOffset value="-0.250000" />
+      <CoverBoundInfos />
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>OUTLAW_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="0.000000" />
+      <ExtraForwardOffset value="0.000000" />
+      <ExtraBackwardOffset value="0.000000" />
+      <ExtraZOffset value="0.000000" />
+      <CoverBoundInfos>
+        <Item>
+          <Name>Front</Name>
+          <Position x="0.000000" y="1.250000" z="-0.200000" />
+          <Length value="0.900000" />
+          <Width value="1.900000" />
+          <Height value="1.200000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>MIDDLE1</Name>
+          <Position x="0.000000" y="0.400000" z="-0.200000" />
+          <Length value="0.800000" />
+          <Width value="1.600000" />
+          <Height value="1.200000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>MIDDLE2</Name>
+          <Position x="0.000000" y="-0.350000" z="-0.200000" />
+          <Length value="0.700000" />
+          <Width value="1.700000" />
+          <Height value="1.200000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>REAR</Name>
+          <Position x="0.000000" y="-1.200000" z="-0.200000" />
+          <Length value="1.000000" />
+          <Width value="1.900000" />
+          <Height value="1.200000" />
+          <ActiveBoundExclusions />
+        </Item>
+      </CoverBoundInfos>
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>REBLA_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="0.100000" />
+      <ExtraForwardOffset value="-0.200000" />
+      <ExtraBackwardOffset value="-0.250000" />
+      <ExtraZOffset value="1.000000" />
+      <CoverBoundInfos>
+        <Item>
+          <Name>Front</Name>
+          <Position x="0.000000" y="1.475000" z="0.250000" />
+          <Length value="1.850000" />
+          <Width value="2.050000" />
+          <Height value="1.400000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>MIDDLE</Name>
+          <Position x="0.000000" y="-0.300000" z="0.250000" />
+          <Length value="1.700000" />
+          <Width value="2.000000" />
+          <Height value="1.400000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>REARWHEEL</Name>
+          <Position x="0.000000" y="-1.550000" z="0.250000" />
+          <Length value="0.800000" />
+          <Width value="2.050000" />
+          <Height value="1.400000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>REAR</Name>
+          <Position x="0.000000" y="-2.265000" z="0.250000" />
+          <Length value="0.625000" />
+          <Width value="1.950000" />
+          <Height value="1.400000" />
+          <ActiveBoundExclusions />
+        </Item>
+      </CoverBoundInfos>
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>STRYDER_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="0.000000" />
+      <ExtraForwardOffset value="0.000000" />
+      <ExtraBackwardOffset value="0.000000" />
+      <ExtraZOffset value="0.000000" />
+      <CoverBoundInfos>
+        <Item>
+          <Name>Front</Name>
+          <Position x="0.000000" y="0.708000" z="0.275000" />
+          <Length value="0.740000" />
+          <Width value="1.570000" />
+          <Height value="1.050000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>MIDDLE</Name>
+          <Position x="0.000000" y="0.230000" z="0.300000" />
+          <Length value="0.275000" />
+          <Width value="1.490000" />
+          <Height value="1.100000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>Back</Name>
+          <Position x="0.000000" y="-0.473000" z="0.275000" />
+          <Length value="1.200000" />
+          <Width value="0.950000" />
+          <Height value="1.050000" />
+          <ActiveBoundExclusions />
+        </Item>
+      </CoverBoundInfos>
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>SUGOI_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="-0.020000" />
+      <ExtraForwardOffset value="-0.130000" />
+      <ExtraBackwardOffset value="-0.150000" />
+      <ExtraZOffset value="-0.400000" />
+      <CoverBoundInfos />
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>SULTAN2_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="0.070000" />
+      <ExtraForwardOffset value="-0.100000" />
+      <ExtraBackwardOffset value="-0.120000" />
+      <ExtraZOffset value="-0.400000" />
+      <CoverBoundInfos />
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>VAGRANT_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="0.000000" />
+      <ExtraForwardOffset value="0.000000" />
+      <ExtraBackwardOffset value="0.000000" />
+      <ExtraZOffset value="0.000000" />
+      <CoverBoundInfos>
+        <Item>
+          <Name>Front</Name>
+          <Position x="0.000000" y="1.150000" z="-0.050000" />
+          <Length value="1.100000" />
+          <Width value="1.900000" />
+          <Height value="1.100000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>MIDDLE</Name>
+          <Position x="0.000000" y="0.000000" z="-0.050000" />
+          <Length value="1.200000" />
+          <Width value="1.700000" />
+          <Height value="1.100000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>REAR</Name>
+          <Position x="0.000000" y="-1.100000" z="-0.050000" />
+          <Length value="1.000000" />
+          <Width value="1.900000" />
+          <Height value="1.100000" />
+          <ActiveBoundExclusions />
+        </Item>
+      </CoverBoundInfos>
+    </Item>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>VSTR_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="0.100000" />
+      <ExtraForwardOffset value="-0.200000" />
+      <ExtraBackwardOffset value="-0.250000" />
+      <ExtraZOffset value="1.000000" />
+      <CoverBoundInfos>
+        <Item>
+          <Name>BODY</Name>
+          <Position x="0.000000" y="0.325000" z="0.300000" />
+          <Length value="4.200000" />
+          <Width value="1.900000" />
+          <Height value="1.500000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>REAR</Name>
+          <Position x="0.000000" y="-2.200000" z="0.300000" />
+          <Length value="0.850000" />
+          <Width value="1.750000" />
+          <Height value="1.500000" />
+          <ActiveBoundExclusions />
+        </Item>
+      </CoverBoundInfos>
+    </Item>
+  </VehicleCoverBoundOffsetInfos>
+  <BicycleInfos />
+  <POVTuningInfos />
+  <EntryAnimVariations />
+  <VehicleExtraPointsInfos />
+  <DrivebyWeaponGroups />
+  <VehicleDriveByAnimInfos>
+    <Item type="CVehicleDriveByAnimInfo">
+      <Name>LOW_VAGRANT_DB_ANIM_INFO_ONE_HANDED_DS</Name>
+      <WeaponGroup ref="DRIVEBY_DEFAULT_ONE_HANDED" />
+      <DriveByClipSet>anim@veh@drivebyraptor@ds</DriveByClipSet>
+      <FirstPersonDriveByClipSet>driveby@first_person@driver@1h</FirstPersonDriveByClipSet>
+      <AltFirstPersonDriveByClipSets>
+        <Item>
+          <Weapons>
+            <Item>WEAPON_MICROSMG</Item>
+          </Weapons>
+          <ClipSet>driveby@first_person@driver@smg</ClipSet>
+        </Item>
+      </AltFirstPersonDriveByClipSets>
+      <RestrictedDriveByClipSet />
+      <VehicleMeleeClipSet />
+      <FirstPersonVehicleMeleeClipSet />
+      <Network>STD_CAR_DRIVEBY</Network>
+      <UseOverrideAngles value="false" />
+      <OverrideAnglesInThirdPersonOnly value="false" />
+      <OverrideMinAimAngle value="0.000000" />
+      <OverrideMaxAimAngle value="0.000000" />
+      <OverrideMinRestrictedAimAngle value="0.000000" />
+      <OverrideMaxRestrictedAimAngle value="0.000000" />
+    </Item>
+    <Item type="CVehicleDriveByAnimInfo">
+      <Name>LOW_VAGRANT_DB_ANIM_INFO_THROW_DS</Name>
+      <WeaponGroup ref="DRIVEBY_THROW" />
+      <DriveByClipSet>anim@veh@drivebyraptor@ds_grenade</DriveByClipSet>
+      <FirstPersonDriveByClipSet>driveby@first_person@driver@throw</FirstPersonDriveByClipSet>
+      <AltFirstPersonDriveByClipSets />
+      <RestrictedDriveByClipSet />
+      <VehicleMeleeClipSet />
+      <FirstPersonVehicleMeleeClipSet />
+      <Network>MOUNTED_THROW</Network>
+      <UseOverrideAngles value="false" />
+      <OverrideAnglesInThirdPersonOnly value="false" />
+      <OverrideMinAimAngle value="0.000000" />
+      <OverrideMaxAimAngle value="0.000000" />
+      <OverrideMinRestrictedAimAngle value="0.000000" />
+      <OverrideMaxRestrictedAimAngle value="0.000000" />
+    </Item>
+    <Item type="CVehicleDriveByAnimInfo">
+      <Name>LOW_VAGRANT_DB_ANIM_INFO_UNARMED_DS</Name>
+      <WeaponGroup ref="DRIVEBY_DEFAULT_UNARMED" />
+      <DriveByClipSet>anim@veh@drivebyraptor@ds_unarmed</DriveByClipSet>
+      <FirstPersonDriveByClipSet>driveby@first_person@driver@unarmed</FirstPersonDriveByClipSet>
+      <AltFirstPersonDriveByClipSets />
+      <RestrictedDriveByClipSet />
+      <VehicleMeleeClipSet />
+      <FirstPersonVehicleMeleeClipSet />
+      <Network>STD_CAR_DRIVEBY</Network>
+      <UseOverrideAngles value="false" />
+      <OverrideAnglesInThirdPersonOnly value="false" />
+      <OverrideMinAimAngle value="0.000000" />
+      <OverrideMaxAimAngle value="0.000000" />
+      <OverrideMinRestrictedAimAngle value="0.000000" />
+      <OverrideMaxRestrictedAimAngle value="0.000000" />
+    </Item>
+    <Item type="CVehicleDriveByAnimInfo">
+      <Name>LOW_VAGRANT_DB_ANIM_INFO_ONE_HANDED_PS</Name>
+      <WeaponGroup ref="DRIVEBY_DEFAULT_ONE_HANDED" />
+      <DriveByClipSet>anim@veh@drivebyraptor@ps</DriveByClipSet>
+      <FirstPersonDriveByClipSet>driveby@first_person@passenger_left_handed@1h</FirstPersonDriveByClipSet>
+      <AltFirstPersonDriveByClipSets>
+        <Item>
+          <Weapons>
+            <Item>WEAPON_MICROSMG</Item>
+          </Weapons>
+          <ClipSet>driveby@first_person@passenger_left_handed@smg</ClipSet>
+        </Item>
+      </AltFirstPersonDriveByClipSets>
+      <RestrictedDriveByClipSet />
+      <VehicleMeleeClipSet />
+      <FirstPersonVehicleMeleeClipSet />
+      <Network>STD_CAR_DRIVEBY</Network>
+      <UseOverrideAngles value="false" />
+      <OverrideAnglesInThirdPersonOnly value="false" />
+      <OverrideMinAimAngle value="0.000000" />
+      <OverrideMaxAimAngle value="0.000000" />
+      <OverrideMinRestrictedAimAngle value="0.000000" />
+      <OverrideMaxRestrictedAimAngle value="0.000000" />
+    </Item>
+    <Item type="CVehicleDriveByAnimInfo">
+      <Name>LOW_VAGRANT_DB_ANIM_INFO_THROW_PS</Name>
+      <WeaponGroup ref="DRIVEBY_THROW" />
+      <DriveByClipSet>anim@veh@drivebyraptor@ps_grenade</DriveByClipSet>
+      <FirstPersonDriveByClipSet>driveby@first_person@passenger_right_handed@throw</FirstPersonDriveByClipSet>
+      <AltFirstPersonDriveByClipSets />
+      <RestrictedDriveByClipSet />
+      <VehicleMeleeClipSet />
+      <FirstPersonVehicleMeleeClipSet />
+      <Network>MOUNTED_THROW</Network>
+      <UseOverrideAngles value="false" />
+      <OverrideAnglesInThirdPersonOnly value="false" />
+      <OverrideMinAimAngle value="0.000000" />
+      <OverrideMaxAimAngle value="0.000000" />
+      <OverrideMinRestrictedAimAngle value="0.000000" />
+      <OverrideMaxRestrictedAimAngle value="0.000000" />
+    </Item>
+    <Item type="CVehicleDriveByAnimInfo">
+      <Name>LOW_VAGRANT_DB_ANIM_INFO_UNARMED_PS</Name>
+      <WeaponGroup ref="DRIVEBY_DEFAULT_UNARMED" />
+      <DriveByClipSet>anim@veh@drivebyraptor@ps_unarmed</DriveByClipSet>
+      <FirstPersonDriveByClipSet>driveby@first_person@passenger_left_handed@unarmed</FirstPersonDriveByClipSet>
+      <AltFirstPersonDriveByClipSets />
+      <RestrictedDriveByClipSet />
+      <VehicleMeleeClipSet />
+      <FirstPersonVehicleMeleeClipSet />
+      <Network>STD_CAR_DRIVEBY</Network>
+      <UseOverrideAngles value="false" />
+      <OverrideAnglesInThirdPersonOnly value="false" />
+      <OverrideMinAimAngle value="0.000000" />
+      <OverrideMaxAimAngle value="0.000000" />
+      <OverrideMinRestrictedAimAngle value="0.000000" />
+      <OverrideMaxRestrictedAimAngle value="0.000000" />
+    </Item>
+    <Item type="CVehicleDriveByAnimInfo">
+      <Name>RANGER_EVERON_DB_ANIM_INFO_ONE_HANDED_DS</Name>
+      <WeaponGroup ref="DRIVEBY_DEFAULT_ONE_HANDED" />
+      <DriveByClipSet>anim@veh@drivebyrangereveron@ds</DriveByClipSet>
+      <FirstPersonDriveByClipSet>driveby@first_person@driver@1h</FirstPersonDriveByClipSet>
+      <AltFirstPersonDriveByClipSets>
+        <Item>
+          <Weapons>
+            <Item>WEAPON_MICROSMG</Item>
+          </Weapons>
+          <ClipSet>driveby@first_person@driver@smg</ClipSet>
+        </Item>
+      </AltFirstPersonDriveByClipSets>
+      <RestrictedDriveByClipSet>drive_by@restricted@VANTIGHT_DS</RestrictedDriveByClipSet>
+      <VehicleMeleeClipSet />
+      <FirstPersonVehicleMeleeClipSet />
+      <Network>STD_CAR_DRIVEBY</Network>
+      <UseOverrideAngles value="false" />
+      <OverrideAnglesInThirdPersonOnly value="false" />
+      <OverrideMinAimAngle value="0.000000" />
+      <OverrideMaxAimAngle value="0.000000" />
+      <OverrideMinRestrictedAimAngle value="0.000000" />
+      <OverrideMaxRestrictedAimAngle value="0.000000" />
+    </Item>
+    <Item type="CVehicleDriveByAnimInfo">
+      <Name>RANGER_EVERON_DB_ANIM_INFO_ONE_HANDED_PS</Name>
+      <WeaponGroup ref="DRIVEBY_DEFAULT_ONE_HANDED" />
+      <DriveByClipSet>anim@veh@drivebyrangereveron@ps</DriveByClipSet>
+      <FirstPersonDriveByClipSet>driveby@first_person@passenger_left_handed@1h</FirstPersonDriveByClipSet>
+      <AltFirstPersonDriveByClipSets>
+        <Item>
+          <Weapons>
+            <Item>WEAPON_MICROSMG</Item>
+          </Weapons>
+          <ClipSet>driveby@first_person@passenger_left_handed@smg</ClipSet>
+        </Item>
+      </AltFirstPersonDriveByClipSets>
+      <RestrictedDriveByClipSet>drive_by@restricted@VANTIGHT_PS</RestrictedDriveByClipSet>
+      <VehicleMeleeClipSet />
+      <FirstPersonVehicleMeleeClipSet />
+      <Network>STD_CAR_DRIVEBY</Network>
+      <UseOverrideAngles value="false" />
+      <OverrideAnglesInThirdPersonOnly value="false" />
+      <OverrideMinAimAngle value="0.000000" />
+      <OverrideMaxAimAngle value="0.000000" />
+      <OverrideMinRestrictedAimAngle value="0.000000" />
+      <OverrideMaxRestrictedAimAngle value="0.000000" />
+    </Item>
+  </VehicleDriveByAnimInfos>
+  <VehicleDriveByInfos>
+    <Item type="CVehicleDriveByInfo">
+      <Name>DRIVEBY_LOW_VAGRANT_FRONT_LEFT</Name>
+      <MinAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxAimSweepHeadingAngleDegs value="190.000000" />
+      <FirstPersonMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <FirstPersonUnarmedMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonUnarmedMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <MinRestrictedAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxRestrictedAimSweepHeadingAngleDegs value="190.000000" />
+      <MinSmashWindowAngleDegs value="-180.000000" />
+      <MaxSmashWindowAngleDegs value="0.000000" />
+      <MinSmashWindowAngleFirstPersonDegs value="-180.000000" />
+      <MaxSmashWindowAngleFirstPersonDegs value="-25.000000" />
+      <MaxSpeedParam value="0.500000" />
+      <MaxLongitudinalLeanBlendWeightDelta value="0.250000" />
+      <MaxLateralLeanBlendWeightDelta value="0.250000" />
+      <ApproachSpeedToWithinMaxBlendDelta value="1.000000" />
+      <SpineAdditiveBlendInDelay value="0.050000" />
+      <SpineAdditiveBlendInDurationStill value="0.150000" />
+      <SpineAdditiveBlendInDuration value="0.750000" />
+      <SpineAdditiveBlendOutDelay value="0.000000" />
+      <SpineAdditiveBlendOutDuration value="0.500000" />
+      <MinUnarmedDrivebyYawIfWindowRolledUp value="-0.800000" />
+      <MaxUnarmedDrivebyYawIfWindowRolledUp value="3.140000" />
+      <DriveByAnimInfos>
+        <Item ref="LOW_VAGRANT_DB_ANIM_INFO_UNARMED_DS" />
+        <Item ref="LOW_VAGRANT_DB_ANIM_INFO_ONE_HANDED_DS" />
+        <Item ref="LOW_VAGRANT_DB_ANIM_INFO_THROW_DS" />
+      </DriveByAnimInfos>
+      <DriveByCamera />
+      <PovDriveByCamera />
+      <DriveByFlags>UseMountedProjectileTask LeftHandedProjctiles LeftHandedUnarmedFirstPersonAnims</DriveByFlags>
+    </Item>
+    <Item type="CVehicleDriveByInfo">
+      <Name>DRIVEBY_LOW_VAGRANT_FRONT_RIGHT</Name>
+      <MinAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxAimSweepHeadingAngleDegs value="190.000000" />
+      <FirstPersonMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <FirstPersonUnarmedMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonUnarmedMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <MinRestrictedAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxRestrictedAimSweepHeadingAngleDegs value="190.000000" />
+      <MinSmashWindowAngleDegs value="0.000000" />
+      <MaxSmashWindowAngleDegs value="180.000000" />
+      <MinSmashWindowAngleFirstPersonDegs value="25.000000" />
+      <MaxSmashWindowAngleFirstPersonDegs value="180.000000" />
+      <MaxSpeedParam value="0.500000" />
+      <MaxLongitudinalLeanBlendWeightDelta value="0.250000" />
+      <MaxLateralLeanBlendWeightDelta value="0.250000" />
+      <ApproachSpeedToWithinMaxBlendDelta value="1.000000" />
+      <SpineAdditiveBlendInDelay value="0.050000" />
+      <SpineAdditiveBlendInDurationStill value="0.150000" />
+      <SpineAdditiveBlendInDuration value="0.750000" />
+      <SpineAdditiveBlendOutDelay value="0.000000" />
+      <SpineAdditiveBlendOutDuration value="0.500000" />
+      <MinUnarmedDrivebyYawIfWindowRolledUp value="-3.140000" />
+      <MaxUnarmedDrivebyYawIfWindowRolledUp value="0.800000" />
+      <DriveByAnimInfos>
+        <Item ref="LOW_VAGRANT_DB_ANIM_INFO_UNARMED_PS" />
+        <Item ref="LOW_VAGRANT_DB_ANIM_INFO_ONE_HANDED_PS" />
+        <Item ref="LOW_VAGRANT_DB_ANIM_INFO_THROW_PS" />
+      </DriveByAnimInfos>
+      <DriveByCamera />
+      <PovDriveByCamera />
+      <DriveByFlags>UseMountedProjectileTask LeftHandedFirstPersonAnims LeftHandedUnarmedFirstPersonAnims</DriveByFlags>
+    </Item>
+    <Item type="CVehicleDriveByInfo">
+      <Name>DRIVEBY_RANGER_EVERON_FRONT_LEFT</Name>
+      <MinAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxAimSweepHeadingAngleDegs value="190.000000" />
+      <FirstPersonMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <FirstPersonUnarmedMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonUnarmedMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <MinRestrictedAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxRestrictedAimSweepHeadingAngleDegs value="190.000000" />
+      <MinSmashWindowAngleDegs value="-180.000000" />
+      <MaxSmashWindowAngleDegs value="-25.000000" />
+      <MinSmashWindowAngleFirstPersonDegs value="-180.000000" />
+      <MaxSmashWindowAngleFirstPersonDegs value="-35.000000" />
+      <MaxSpeedParam value="0.500000" />
+      <MaxLongitudinalLeanBlendWeightDelta value="0.250000" />
+      <MaxLateralLeanBlendWeightDelta value="0.250000" />
+      <ApproachSpeedToWithinMaxBlendDelta value="1.000000" />
+      <SpineAdditiveBlendInDelay value="0.050000" />
+      <SpineAdditiveBlendInDurationStill value="0.150000" />
+      <SpineAdditiveBlendInDuration value="0.750000" />
+      <SpineAdditiveBlendOutDelay value="0.000000" />
+      <SpineAdditiveBlendOutDuration value="0.500000" />
+      <MinUnarmedDrivebyYawIfWindowRolledUp value="-0.400000" />
+      <MaxUnarmedDrivebyYawIfWindowRolledUp value="3.140000" />
+      <DriveByAnimInfos>
+        <Item ref="RANGER_EVERON_DB_ANIM_INFO_ONE_HANDED_DS" />
+        <Item ref="VAN_DB_ANIM_INFO_THROW_DS" />
+      </DriveByAnimInfos>
+      <DriveByCamera />
+      <PovDriveByCamera />
+      <DriveByFlags>UseMountedProjectileTask UseThreeAnimThrow LeftHandedProjctiles LeftHandedUnarmedFirstPersonAnims</DriveByFlags>
+    </Item>
+    <Item type="CVehicleDriveByInfo">
+      <Name>DRIVEBY_RANGER_EVERON_FRONT_RIGHT</Name>
+      <MinAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxAimSweepHeadingAngleDegs value="190.000000" />
+      <FirstPersonMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <FirstPersonUnarmedMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonUnarmedMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <MinRestrictedAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxRestrictedAimSweepHeadingAngleDegs value="190.000000" />
+      <MinSmashWindowAngleDegs value="25.000000" />
+      <MaxSmashWindowAngleDegs value="180.000000" />
+      <MinSmashWindowAngleFirstPersonDegs value="35.000000" />
+      <MaxSmashWindowAngleFirstPersonDegs value="180.000000" />
+      <MaxSpeedParam value="0.500000" />
+      <MaxLongitudinalLeanBlendWeightDelta value="0.250000" />
+      <MaxLateralLeanBlendWeightDelta value="0.250000" />
+      <ApproachSpeedToWithinMaxBlendDelta value="1.000000" />
+      <SpineAdditiveBlendInDelay value="0.050000" />
+      <SpineAdditiveBlendInDurationStill value="0.150000" />
+      <SpineAdditiveBlendInDuration value="0.750000" />
+      <SpineAdditiveBlendOutDelay value="0.000000" />
+      <SpineAdditiveBlendOutDuration value="0.500000" />
+      <MinUnarmedDrivebyYawIfWindowRolledUp value="-3.140000" />
+      <MaxUnarmedDrivebyYawIfWindowRolledUp value="0.400000" />
+      <DriveByAnimInfos>
+        <Item ref="RANGER_EVERON_DB_ANIM_INFO_ONE_HANDED_PS" />
+        <Item ref="VAN_DB_ANIM_INFO_THROW_PS" />
+      </DriveByAnimInfos>
+      <DriveByCamera />
+      <PovDriveByCamera />
+      <DriveByFlags>UseMountedProjectileTask UseThreeAnimThrow LeftHandedFirstPersonAnims LeftHandedUnarmedFirstPersonAnims</DriveByFlags>
+    </Item>
+    <Item type="CVehicleDriveByInfo">
+      <Name>DRIVEBY_RANGER_EVERON_REAR_LEFT</Name>
+      <MinAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxAimSweepHeadingAngleDegs value="190.000000" />
+      <FirstPersonMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <FirstPersonUnarmedMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonUnarmedMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <MinRestrictedAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxRestrictedAimSweepHeadingAngleDegs value="190.000000" />
+      <MinSmashWindowAngleDegs value="-180.000000" />
+      <MaxSmashWindowAngleDegs value="-17.500000" />
+      <MinSmashWindowAngleFirstPersonDegs value="-180.000000" />
+      <MaxSmashWindowAngleFirstPersonDegs value="-17.500000" />
+      <MaxSpeedParam value="0.500000" />
+      <MaxLongitudinalLeanBlendWeightDelta value="0.250000" />
+      <MaxLateralLeanBlendWeightDelta value="0.250000" />
+      <ApproachSpeedToWithinMaxBlendDelta value="1.000000" />
+      <SpineAdditiveBlendInDelay value="0.050000" />
+      <SpineAdditiveBlendInDurationStill value="0.150000" />
+      <SpineAdditiveBlendInDuration value="0.750000" />
+      <SpineAdditiveBlendOutDelay value="0.000000" />
+      <SpineAdditiveBlendOutDuration value="0.500000" />
+      <MinUnarmedDrivebyYawIfWindowRolledUp value="-0.450000" />
+      <MaxUnarmedDrivebyYawIfWindowRolledUp value="3.140000" />
+      <DriveByAnimInfos>
+        <Item ref="RANGER_EVERON_DB_ANIM_INFO_ONE_HANDED_DS" />
+        <Item ref="STD_DB_ANIM_INFO_THROW_RDS" />
+      </DriveByAnimInfos>
+      <DriveByCamera />
+      <PovDriveByCamera />
+      <DriveByFlags>UseMountedProjectileTask LeftHandedProjctiles</DriveByFlags>
+    </Item>
+    <Item type="CVehicleDriveByInfo">
+      <Name>DRIVEBY_RANGER_EVERON_REAR_RIGHT</Name>
+      <MinAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxAimSweepHeadingAngleDegs value="190.000000" />
+      <FirstPersonMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <FirstPersonUnarmedMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonUnarmedMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <MinRestrictedAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxRestrictedAimSweepHeadingAngleDegs value="190.000000" />
+      <MinSmashWindowAngleDegs value="17.500000" />
+      <MaxSmashWindowAngleDegs value="180.000000" />
+      <MinSmashWindowAngleFirstPersonDegs value="17.500000" />
+      <MaxSmashWindowAngleFirstPersonDegs value="180.000000" />
+      <MaxSpeedParam value="0.500000" />
+      <MaxLongitudinalLeanBlendWeightDelta value="0.250000" />
+      <MaxLateralLeanBlendWeightDelta value="0.250000" />
+      <ApproachSpeedToWithinMaxBlendDelta value="1.000000" />
+      <SpineAdditiveBlendInDelay value="0.050000" />
+      <SpineAdditiveBlendInDurationStill value="0.150000" />
+      <SpineAdditiveBlendInDuration value="0.750000" />
+      <SpineAdditiveBlendOutDelay value="0.000000" />
+      <SpineAdditiveBlendOutDuration value="0.500000" />
+      <MinUnarmedDrivebyYawIfWindowRolledUp value="-3.140000" />
+      <MaxUnarmedDrivebyYawIfWindowRolledUp value="0.450000" />
+      <DriveByAnimInfos>
+        <Item ref="RANGER_EVERON_DB_ANIM_INFO_ONE_HANDED_PS" />
+        <Item ref="STD_DB_ANIM_INFO_THROW_RPS" />
+      </DriveByAnimInfos>
+      <DriveByCamera />
+      <PovDriveByCamera />
+      <DriveByFlags>UseMountedProjectileTask LeftHandedFirstPersonAnims LeftHandedUnarmedFirstPersonAnims</DriveByFlags>
+    </Item>
+    <Item type="CVehicleDriveByInfo">
+      <Name>DRIVEBY_RANGER_REBLA_FRONT_LEFT</Name>
+      <MinAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxAimSweepHeadingAngleDegs value="190.000000" />
+      <FirstPersonMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <FirstPersonUnarmedMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonUnarmedMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <MinRestrictedAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxRestrictedAimSweepHeadingAngleDegs value="190.000000" />
+      <MinSmashWindowAngleDegs value="-180.000000" />
+      <MaxSmashWindowAngleDegs value="-25.000000" />
+      <MinSmashWindowAngleFirstPersonDegs value="-180.000000" />
+      <MaxSmashWindowAngleFirstPersonDegs value="-35.000000" />
+      <MaxSpeedParam value="0.500000" />
+      <MaxLongitudinalLeanBlendWeightDelta value="0.250000" />
+      <MaxLateralLeanBlendWeightDelta value="0.250000" />
+      <ApproachSpeedToWithinMaxBlendDelta value="1.000000" />
+      <SpineAdditiveBlendInDelay value="0.050000" />
+      <SpineAdditiveBlendInDurationStill value="0.150000" />
+      <SpineAdditiveBlendInDuration value="0.750000" />
+      <SpineAdditiveBlendOutDelay value="0.000000" />
+      <SpineAdditiveBlendOutDuration value="0.500000" />
+      <MinUnarmedDrivebyYawIfWindowRolledUp value="-0.400000" />
+      <MaxUnarmedDrivebyYawIfWindowRolledUp value="3.140000" />
+      <DriveByAnimInfos>
+        <Item ref="VAN_DB_ANIM_INFO_UNARMED_DS" />
+        <Item ref="VAN_TIGHT_DB_ANIM_INFO_ONE_HANDED_DS" />
+        <Item ref="VAN_DB_ANIM_INFO_THROW_DS" />
+      </DriveByAnimInfos>
+      <DriveByCamera />
+      <PovDriveByCamera />
+      <DriveByFlags>UseMountedProjectileTask UseThreeAnimThrow LeftHandedProjctiles LeftHandedUnarmedFirstPersonAnims</DriveByFlags>
+    </Item>
+    <Item type="CVehicleDriveByInfo">
+      <Name>DRIVEBY_RANGER_REBLA_FRONT_RIGHT</Name>
+      <MinAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxAimSweepHeadingAngleDegs value="190.000000" />
+      <FirstPersonMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <FirstPersonUnarmedMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonUnarmedMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <MinRestrictedAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxRestrictedAimSweepHeadingAngleDegs value="190.000000" />
+      <MinSmashWindowAngleDegs value="25.000000" />
+      <MaxSmashWindowAngleDegs value="180.000000" />
+      <MinSmashWindowAngleFirstPersonDegs value="35.000000" />
+      <MaxSmashWindowAngleFirstPersonDegs value="180.000000" />
+      <MaxSpeedParam value="0.500000" />
+      <MaxLongitudinalLeanBlendWeightDelta value="0.250000" />
+      <MaxLateralLeanBlendWeightDelta value="0.250000" />
+      <ApproachSpeedToWithinMaxBlendDelta value="1.000000" />
+      <SpineAdditiveBlendInDelay value="0.050000" />
+      <SpineAdditiveBlendInDurationStill value="0.150000" />
+      <SpineAdditiveBlendInDuration value="0.750000" />
+      <SpineAdditiveBlendOutDelay value="0.000000" />
+      <SpineAdditiveBlendOutDuration value="0.500000" />
+      <MinUnarmedDrivebyYawIfWindowRolledUp value="-3.140000" />
+      <MaxUnarmedDrivebyYawIfWindowRolledUp value="0.400000" />
+      <DriveByAnimInfos>
+        <Item ref="VAN_DB_ANIM_INFO_UNARMED_PS" />
+        <Item ref="VAN_TIGHT_DB_ANIM_INFO_ONE_HANDED_PS" />
+        <Item ref="VAN_DB_ANIM_INFO_THROW_PS" />
+      </DriveByAnimInfos>
+      <DriveByCamera />
+      <PovDriveByCamera />
+      <DriveByFlags>UseMountedProjectileTask UseThreeAnimThrow LeftHandedFirstPersonAnims LeftHandedUnarmedFirstPersonAnims</DriveByFlags>
+    </Item>
+    <Item type="CVehicleDriveByInfo">
+      <Name>DRIVEBY_RANGER_REBLA_REAR_LEFT</Name>
+      <MinAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxAimSweepHeadingAngleDegs value="190.000000" />
+      <FirstPersonMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <FirstPersonUnarmedMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonUnarmedMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <MinRestrictedAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxRestrictedAimSweepHeadingAngleDegs value="190.000000" />
+      <MinSmashWindowAngleDegs value="-180.000000" />
+      <MaxSmashWindowAngleDegs value="-17.500000" />
+      <MinSmashWindowAngleFirstPersonDegs value="-180.000000" />
+      <MaxSmashWindowAngleFirstPersonDegs value="-17.500000" />
+      <MaxSpeedParam value="0.500000" />
+      <MaxLongitudinalLeanBlendWeightDelta value="0.250000" />
+      <MaxLateralLeanBlendWeightDelta value="0.250000" />
+      <ApproachSpeedToWithinMaxBlendDelta value="1.000000" />
+      <SpineAdditiveBlendInDelay value="0.050000" />
+      <SpineAdditiveBlendInDurationStill value="0.150000" />
+      <SpineAdditiveBlendInDuration value="0.750000" />
+      <SpineAdditiveBlendOutDelay value="0.000000" />
+      <SpineAdditiveBlendOutDuration value="0.500000" />
+      <MinUnarmedDrivebyYawIfWindowRolledUp value="-0.450000" />
+      <MaxUnarmedDrivebyYawIfWindowRolledUp value="3.140000" />
+      <DriveByAnimInfos>
+        <Item ref="RANGER_DB_ANIM_INFO_UNARMED_RDS" />
+        <Item ref="VAN_DB_ANIM_INFO_ONE_HANDED_DS" />
+        <Item ref="RANGER_DB_ANIM_INFO_THROW_RDS" />
+      </DriveByAnimInfos>
+      <DriveByCamera />
+      <PovDriveByCamera />
+      <DriveByFlags>UseMountedProjectileTask UseThreeAnimThrow LeftHandedProjctiles</DriveByFlags>
+    </Item>
+    <Item type="CVehicleDriveByInfo">
+      <Name>DRIVEBY_RANGER_REBLA_REAR_RIGHT</Name>
+      <MinAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxAimSweepHeadingAngleDegs value="190.000000" />
+      <FirstPersonMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <FirstPersonUnarmedMinAimSweepHeadingAngleDegs value="-180.000000" />
+      <FirstPersonUnarmedMaxAimSweepHeadingAngleDegs value="180.000000" />
+      <MinRestrictedAimSweepHeadingAngleDegs value="-190.000000" />
+      <MaxRestrictedAimSweepHeadingAngleDegs value="190.000000" />
+      <MinSmashWindowAngleDegs value="17.500000" />
+      <MaxSmashWindowAngleDegs value="180.000000" />
+      <MinSmashWindowAngleFirstPersonDegs value="17.500000" />
+      <MaxSmashWindowAngleFirstPersonDegs value="180.000000" />
+      <MaxSpeedParam value="0.500000" />
+      <MaxLongitudinalLeanBlendWeightDelta value="0.250000" />
+      <MaxLateralLeanBlendWeightDelta value="0.250000" />
+      <ApproachSpeedToWithinMaxBlendDelta value="1.000000" />
+      <SpineAdditiveBlendInDelay value="0.050000" />
+      <SpineAdditiveBlendInDurationStill value="0.150000" />
+      <SpineAdditiveBlendInDuration value="0.750000" />
+      <SpineAdditiveBlendOutDelay value="0.000000" />
+      <SpineAdditiveBlendOutDuration value="0.500000" />
+      <MinUnarmedDrivebyYawIfWindowRolledUp value="-3.140000" />
+      <MaxUnarmedDrivebyYawIfWindowRolledUp value="0.450000" />
+      <DriveByAnimInfos>
+        <Item ref="RANGER_DB_ANIM_INFO_UNARMED_RPS" />
+        <Item ref="VAN_DB_ANIM_INFO_ONE_HANDED_PS" />
+        <Item ref="RANGER_DB_ANIM_INFO_THROW_RPS" />
+      </DriveByAnimInfos>
+      <DriveByCamera />
+      <PovDriveByCamera />
+      <DriveByFlags>UseMountedProjectileTask UseThreeAnimThrow LeftHandedFirstPersonAnims LeftHandedUnarmedFirstPersonAnims</DriveByFlags>
+    </Item>
+  </VehicleDriveByInfos>
+  <VehicleSeatInfos />
+  <VehicleSeatAnimInfos>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_LOW_VAGRANT_FRONT_LEFT</Name>
+      <DriveByInfo ref="DRIVEBY_LOW_VAGRANT_FRONT_LEFT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_LOW_DUNE_FRONT_LEFT" />
+      <PanicClipSet>clipset@veh@low@dune@front@idle_panic</PanicClipSet>
+      <AgitatedClipSet />
+      <DuckedClipSet>clipset@veh@low@ds@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>LOW_CAR_FRONT_DS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext />
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>UseStandardInVehicleAnims HasPanicAnims UseCloseDoorBlendAnims NoShunts</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName />
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_LOW_DS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_LOW_DS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="2.000000" />
+      <FPSMaxSteeringRateOverride value="9.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_LOW_VAGRANT_FRONT_RIGHT</Name>
+      <DriveByInfo ref="DRIVEBY_LOW_VAGRANT_FRONT_RIGHT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_LOW_FRONT_RIGHT" />
+      <PanicClipSet>clipset@veh@low@ps@idle_panic</PanicClipSet>
+      <AgitatedClipSet />
+      <DuckedClipSet>clipset@veh@low@ps@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>LOW_CAR_FRONT_PS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext />
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>WeaponAttachedToLeftHand UseStandardInVehicleAnims HasPanicAnims UseCloseDoorBlendAnims PreventShuffleJack NoShunts</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName />
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_LOW_PS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_LOW_PS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_RANGER_EVERON_FRONT_LEFT</Name>
+      <DriveByInfo ref="DRIVEBY_RANGER_EVERON_FRONT_LEFT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_VAN_FRONT_LEFT" />
+      <PanicClipSet>clipset@veh@van@ds@idle_panic</PanicClipSet>
+      <AgitatedClipSet>clipset@veh@van@ds@idle_agitated</AgitatedClipSet>
+      <DuckedClipSet>clipset@veh@van@ds@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>VAN_FRONT_DS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext>IN_VAN</SeatAmbientContext>
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>UseStandardInVehicleAnims UseCloseDoorBlendAnims</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName>MESA</ExitToAimInfoName>
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_VAN_DS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_VAN_DS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_RANGER_EVERON_FRONT_RIGHT</Name>
+      <DriveByInfo ref="DRIVEBY_RANGER_EVERON_FRONT_RIGHT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_VAN_FRONT_RIGHT" />
+      <PanicClipSet>clipset@veh@van@ps@idle_panic</PanicClipSet>
+      <AgitatedClipSet />
+      <DuckedClipSet>clipset@veh@van@ps@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>VAN_FRONT_PS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext>IN_VAN</SeatAmbientContext>
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>WeaponAttachedToLeftHand UseStandardInVehicleAnims UseCloseDoorBlendAnims PreventShuffleJack</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName>MESA</ExitToAimInfoName>
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_VAN_PS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_VAN_PS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_RANGER_EVERON_REAR_LEFT</Name>
+      <DriveByInfo ref="DRIVEBY_RANGER_EVERON_REAR_LEFT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_VAN_FRONT_RIGHT" />
+      <PanicClipSet>clipset@veh@van@ps@idle_panic</PanicClipSet>
+      <AgitatedClipSet />
+      <DuckedClipSet>clipset@veh@van@ps@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>VAN_FRONT_PS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext>IN_VAN</SeatAmbientContext>
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>UseStandardInVehicleAnims</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName>STANDARD</ExitToAimInfoName>
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_VAN_PS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_VAN_PS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_RANGER_EVERON_REAR_RIGHT</Name>
+      <DriveByInfo ref="DRIVEBY_RANGER_EVERON_REAR_RIGHT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_VAN_FRONT_RIGHT" />
+      <PanicClipSet>clipset@veh@van@ps@idle_panic</PanicClipSet>
+      <AgitatedClipSet />
+      <DuckedClipSet>clipset@veh@van@ps@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>VAN_FRONT_PS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext>IN_VAN</SeatAmbientContext>
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>WeaponAttachedToLeftHand UseStandardInVehicleAnims PreventShuffleJack</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName>STANDARD</ExitToAimInfoName>
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_VAN_PS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_VAN_PS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_RANGER_REBLA_FRONT_LEFT</Name>
+      <DriveByInfo ref="DRIVEBY_RANGER_REBLA_FRONT_LEFT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_VAN_FRONT_LEFT" />
+      <PanicClipSet>clipset@veh@van@ds@idle_panic</PanicClipSet>
+      <AgitatedClipSet>clipset@veh@van@ds@idle_agitated</AgitatedClipSet>
+      <DuckedClipSet>clipset@veh@van@ds@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>VAN_FRONT_DS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext>IN_VAN</SeatAmbientContext>
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>UseStandardInVehicleAnims UseCloseDoorBlendAnims</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName>MESA</ExitToAimInfoName>
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_VAN_DS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_VAN_DS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_RANGER_REBLA_FRONT_RIGHT</Name>
+      <DriveByInfo ref="DRIVEBY_RANGER_REBLA_FRONT_RIGHT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_VAN_FRONT_RIGHT" />
+      <PanicClipSet>clipset@veh@van@ps@idle_panic</PanicClipSet>
+      <AgitatedClipSet />
+      <DuckedClipSet>clipset@veh@van@ps@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>VAN_FRONT_PS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext>IN_VAN</SeatAmbientContext>
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>WeaponAttachedToLeftHand UseStandardInVehicleAnims UseCloseDoorBlendAnims PreventShuffleJack</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName>MESA</ExitToAimInfoName>
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_VAN_PS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_VAN_PS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_RANGER_REBLA_REAR_LEFT</Name>
+      <DriveByInfo ref="DRIVEBY_RANGER_REBLA_REAR_LEFT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_VAN_FRONT_RIGHT" />
+      <PanicClipSet>clipset@veh@van@ps@idle_panic</PanicClipSet>
+      <AgitatedClipSet />
+      <DuckedClipSet>clipset@veh@van@ps@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>VAN_FRONT_PS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext>IN_VAN</SeatAmbientContext>
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>UseStandardInVehicleAnims</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName>STANDARD</ExitToAimInfoName>
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_VAN_PS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_VAN_PS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_RANGER_REBLA_REAR_RIGHT</Name>
+      <DriveByInfo ref="DRIVEBY_RANGER_REBLA_REAR_RIGHT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_VAN_FRONT_RIGHT" />
+      <PanicClipSet>clipset@veh@van@ps@idle_panic</PanicClipSet>
+      <AgitatedClipSet />
+      <DuckedClipSet>clipset@veh@van@ps@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>VAN_FRONT_PS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext>IN_VAN</SeatAmbientContext>
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>WeaponAttachedToLeftHand UseStandardInVehicleAnims PreventShuffleJack</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName>STANDARD</ExitToAimInfoName>
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_VAN_PS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_VAN_PS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_RCTANK</Name>
+      <DriveByInfo ref="NULL" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_MOWER_FRONT" />
+      <PanicClipSet />
+      <AgitatedClipSet />
+      <DuckedClipSet>clipset@veh@mower@ds@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>MOWER</LowLODIdleAnim>
+      <SeatAmbientContext />
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>CannotBeJacked UseStandardInVehicleAnims DisableAbnormalExits</SeatAnimFlags>
+      <SteeringSmoothing value="0.040000" />
+      <ExitToAimInfoName />
+      <MaleGestureClipSetId />
+      <FemaleGestureClipSetId />
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_STD_OUTLAW_FRONT_LEFT</Name>
+      <DriveByInfo ref="DRIVEBY_STANDARD_FRONT_LEFT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_STD_FRONT_LEFT" />
+      <PanicClipSet>clipset@veh@std@ds@idle_panic</PanicClipSet>
+      <AgitatedClipSet>clipset@veh@std@ds@idle_agitated</AgitatedClipSet>
+      <DuckedClipSet>clipset@veh@std@ds@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>STD_CAR_FRONT_DS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext />
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>UseStandardInVehicleAnims UseCloseDoorBlendAnims NoShunts</SeatAnimFlags>
+      <SteeringSmoothing value="0.040000" />
+      <ExitToAimInfoName>STANDARD</ExitToAimInfoName>
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_STD_DS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_STD_DS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+    <Item type="CVehicleSeatAnimInfo">
+      <Name>SEAT_ANIM_STD_OUTLAW_FRONT_RIGHT</Name>
+      <DriveByInfo ref="DRIVEBY_STANDARD_FRONT_RIGHT" />
+      <InsideClipSetMap ref="INSIDE_CLIPSET_MAP_STD_FRONT_RIGHT" />
+      <PanicClipSet>clipset@veh@std@ps@idle_panic</PanicClipSet>
+      <AgitatedClipSet />
+      <DuckedClipSet>clipset@veh@std@ps@idle_duck</DuckedClipSet>
+      <FemaleClipSet />
+      <LowriderLeanClipSet />
+      <AltLowriderLeanClipSet />
+      <LowLODIdleAnim>STD_CAR_FRONT_PS_IDLE</LowLODIdleAnim>
+      <SeatAmbientContext />
+      <InVehicleMoveNetwork>VEHICLE_DEFAULT</InVehicleMoveNetwork>
+      <SeatAnimFlags>UseStandardInVehicleAnims HasPanicAnims UseCloseDoorBlendAnims PreventShuffleJack NoShunts</SeatAnimFlags>
+      <SteeringSmoothing value="0.100000" />
+      <ExitToAimInfoName>STANDARD</ExitToAimInfoName>
+      <MaleGestureClipSetId>ANIM_GROUP_GESTURE_M_CAR_STD_PS</MaleGestureClipSetId>
+      <FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_STD_PS</FemaleGestureClipSetId>
+      <FPSMinSteeringRateOverride value="-1.000000" />
+      <FPSMaxSteeringRateOverride value="-1.000000" />
+      <SeatCollisionBoundsOffset x="0.000000" y="0.000000" z="0.000000" />
+    </Item>
+  </VehicleSeatAnimInfos>
+  <VehicleEntryPointInfos />
+  <VehicleEntryPointAnimInfos>
+    <Item type="CVehicleEntryPointAnimInfo">
+      <Name>ENTRY_POINT_ANIM_RANGER_EVERON_REAR_LEFT</Name>
+      <CommonClipSetMap ref="COMMON_CLIPSET_MAP_AUTOMOBILE_LEFT" />
+      <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_GRANGER_REAR_LEFT" />
+      <ExitClipSetMap ref="EXIT_CLIPSET_MAP_GRANGER_REAR_LEFT" />
+      <AlternateTryLockedDoorClipId />
+      <AlternateForcedEntryClipId />
+      <AlternateJackFromOutSideClipId />
+      <AlternateBeJackedFromOutSideClipId />
+      <AlternateEntryPointClipSetId />
+      <EnterVehicleMoveNetwork>ENTER_VEHICLE_STD</EnterVehicleMoveNetwork>
+      <EntryTranslation x="-1.348600" y="-0.547200" z="0.250000" />
+      <OpenDoorTranslation x="0.000000" y="0.000000" />
+      <OpenDoorHeadingChange value="1.570000" />
+      <EntryHeadingChange value="-1.570800" />
+      <ExtraZForMPPlaneWarp value="-2.000000" />
+      <EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
+      <EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_FRONT_RIGHT" />
+      <NMJumpFromVehicleTuningSet />
+    </Item>
+    <Item type="CVehicleEntryPointAnimInfo">
+      <Name>ENTRY_POINT_ANIM_RANGER_EVERON_REAR_RIGHT</Name>
+      <CommonClipSetMap ref="COMMON_CLIPSET_MAP_TRUCK_RIGHT" />
+      <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_VAN_FRONT_RIGHT" />
+      <ExitClipSetMap ref="EXIT_CLIPSET_MAP_VAN_FRONT_RIGHT" />
+      <AlternateTryLockedDoorClipId />
+      <AlternateForcedEntryClipId />
+      <AlternateJackFromOutSideClipId>van_perp_ps_a</AlternateJackFromOutSideClipId>
+      <AlternateBeJackedFromOutSideClipId>van_victim_ps_a</AlternateBeJackedFromOutSideClipId>
+      <AlternateEntryPointClipSetId />
+      <EnterVehicleMoveNetwork>ENTER_VEHICLE_STD</EnterVehicleMoveNetwork>
+      <EntryTranslation x="1.224400" y="-0.504200" z="0.200000" />
+      <OpenDoorTranslation x="0.000000" y="0.000000" />
+      <OpenDoorHeadingChange value="-1.570000" />
+      <EntryHeadingChange value="1.570000" />
+      <ExtraZForMPPlaneWarp value="-2.000000" />
+      <EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
+      <EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_FRONT_RIGHT" />
+      <NMJumpFromVehicleTuningSet />
+    </Item>
+    <Item type="CVehicleEntryPointAnimInfo">
+      <Name>ENTRY_POINT_ANIM_RANGER_REBLA_REAR_LEFT</Name>
+      <CommonClipSetMap ref="COMMON_CLIPSET_MAP_AUTOMOBILE_LEFT" />
+      <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_GRANGER_REAR_LEFT" />
+      <ExitClipSetMap ref="EXIT_CLIPSET_MAP_GRANGER_REAR_LEFT" />
+      <AlternateTryLockedDoorClipId />
+      <AlternateForcedEntryClipId />
+      <AlternateJackFromOutSideClipId />
+      <AlternateBeJackedFromOutSideClipId />
+      <AlternateEntryPointClipSetId />
+      <EnterVehicleMoveNetwork>ENTER_VEHICLE_STD</EnterVehicleMoveNetwork>
+      <EntryTranslation x="-1.248600" y="-0.647000" z="0.250000" />
+      <OpenDoorTranslation x="0.000000" y="0.000000" />
+      <OpenDoorHeadingChange value="1.570000" />
+      <EntryHeadingChange value="-1.570800" />
+      <ExtraZForMPPlaneWarp value="-2.000000" />
+      <EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
+      <EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_FRONT_RIGHT" />
+      <NMJumpFromVehicleTuningSet />
+    </Item>
+    <Item type="CVehicleEntryPointAnimInfo">
+      <Name>ENTRY_POINT_ANIM_RANGER_REBLA_REAR_RIGHT</Name>
+      <CommonClipSetMap ref="COMMON_CLIPSET_MAP_TRUCK_RIGHT" />
+      <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_VAN_FRONT_RIGHT" />
+      <ExitClipSetMap ref="EXIT_CLIPSET_MAP_VAN_FRONT_RIGHT" />
+      <AlternateTryLockedDoorClipId />
+      <AlternateForcedEntryClipId />
+      <AlternateJackFromOutSideClipId>van_perp_ps_a</AlternateJackFromOutSideClipId>
+      <AlternateBeJackedFromOutSideClipId>van_victim_ps_a</AlternateBeJackedFromOutSideClipId>
+      <AlternateEntryPointClipSetId />
+      <EnterVehicleMoveNetwork>ENTER_VEHICLE_STD</EnterVehicleMoveNetwork>
+      <EntryTranslation x="1.224400" y="-0.647000" z="0.200000" />
+      <OpenDoorTranslation x="0.000000" y="0.000000" />
+      <OpenDoorHeadingChange value="-1.570000" />
+      <EntryHeadingChange value="1.570000" />
+      <ExtraZForMPPlaneWarp value="-2.000000" />
+      <EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
+      <EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_FRONT_RIGHT" />
+      <NMJumpFromVehicleTuningSet />
+    </Item>
+    <Item type="CVehicleEntryPointAnimInfo">
+      <Name>ENTRY_POINT_ANIM_LOW_VAGRANT_FRONT_LEFT</Name>
+      <CommonClipSetMap ref="COMMON_CLIPSET_MAP_AUTOMOBILE_LEFT" />
+      <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_LOW_FRONT_LEFT" />
+      <ExitClipSetMap ref="EXIT_CLIPSET_MAP_LOW_FRONT_LEFT" />
+      <AlternateTryLockedDoorClipId>LOW_Locked_DS</AlternateTryLockedDoorClipId>
+      <AlternateForcedEntryClipId>LOW_Force_Entry_DS</AlternateForcedEntryClipId>
+      <AlternateJackFromOutSideClipId>low_perp_ds_a</AlternateJackFromOutSideClipId>
+      <AlternateBeJackedFromOutSideClipId>low_victim_ds_a</AlternateBeJackedFromOutSideClipId>
+      <AlternateEntryPointClipSetId>clipset@veh@low@ds@female@enter_exit</AlternateEntryPointClipSetId>
+      <EnterVehicleMoveNetwork>ENTER_VEHICLE_STD</EnterVehicleMoveNetwork>
+      <EntryTranslation x="-1.081000" y="-0.700000" z="0.610000" />
+      <OpenDoorTranslation x="0.000000" y="0.000000" />
+      <OpenDoorHeadingChange value="1.570000" />
+      <EntryHeadingChange value="0.000000" />
+      <ExtraZForMPPlaneWarp value="-2.000000" />
+      <EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
+      <EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_LOW_FRONT_LEFT" />
+      <NMJumpFromVehicleTuningSet>LOWCAR</NMJumpFromVehicleTuningSet>
+    </Item>
+    <Item type="CVehicleEntryPointAnimInfo">
+      <Name>ENTRY_POINT_ANIM_LOW_VAGRANT_FRONT_RIGHT</Name>
+      <CommonClipSetMap ref="COMMON_CLIPSET_MAP_AUTOMOBILE_RIGHT" />
+      <EntryClipSetMap ref="ENTRY_CLIPSET_MAP_LOW_FRONT_RIGHT" />
+      <ExitClipSetMap ref="EXIT_CLIPSET_MAP_LOW_FRONT_RIGHT" />
+      <AlternateTryLockedDoorClipId>LOW_Locked_PS</AlternateTryLockedDoorClipId>
+      <AlternateForcedEntryClipId>LOW_Force_Entry_PS</AlternateForcedEntryClipId>
+      <AlternateJackFromOutSideClipId>low_perp_ps_a</AlternateJackFromOutSideClipId>
+      <AlternateBeJackedFromOutSideClipId>low_victim_ps_a</AlternateBeJackedFromOutSideClipId>
+      <AlternateEntryPointClipSetId>clipset@veh@low@ps@female@enter_exit</AlternateEntryPointClipSetId>
+      <EnterVehicleMoveNetwork>ENTER_VEHICLE_STD</EnterVehicleMoveNetwork>
+      <EntryTranslation x="1.081000" y="-0.700000" z="0.610000" />
+      <OpenDoorTranslation x="0.000000" y="0.000000" />
+      <OpenDoorHeadingChange value="-1.570000" />
+      <EntryHeadingChange value="0.000000" />
+      <ExtraZForMPPlaneWarp value="-2.000000" />
+      <EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
+      <EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_LOW_FRONT_RIGHT" />
+      <NMJumpFromVehicleTuningSet />
+    </Item>
+  </VehicleEntryPointAnimInfos>
+  <VehicleExplosionInfos />
+  <VehicleLayoutInfos>
+    <Item type="CVehicleLayoutInfo">
+      <Name>LAYOUT_LOW_FURIA</Name>
+      <Seats>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_LOW_RESTRICTED_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_LOW_RESTRICTED_FRONT_RIGHT" />
+        </Item>
+      </Seats>
+      <EntryPoints>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_LOW_INFERNUS_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_LOW_INFERNUS_FRONT_RIGHT" />
+        </Item>
+      </EntryPoints>
+      <LayoutFlags>StreamAnims NoArmIkOnInsideCloseDoor NoArmIkOnOutsideCloseDoor UseLeanSteerAnims UseSteeringWheelIk UseFinerAlignTolerance AutomaticCloseDoor</LayoutFlags>
+      <BicycleInfo ref="NULL" />
+      <AnimRateSet ref="STD_LOW_ANIM_RATE_SET" />
+      <HandsUpClipSetId>busted_vehicle_low</HandsUpClipSetId>
+      <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+      <MaxXAcceleration value="15.000000" />
+      <BodyLeanXApproachSpeed value="10.000000" />
+      <BodyLeanXSmallDelta value="0.400000" />
+      <LookBackApproachSpeedScale value="1.000000" />
+      <FirstPersonAdditiveIdleClipSets>
+        <Item>clipset@veh@low@ds@idle_a</Item>
+        <Item>clipset@veh@low@ds@idle_b</Item>
+        <Item>clipset@veh@low@ds@idle_c</Item>
+        <Item>clipset@veh@low@ds@idle_d</Item>
+        <Item>clipset@veh@low@ds@idle_e</Item>
+      </FirstPersonAdditiveIdleClipSets>
+      <FirstPersonRoadRageClipSets>
+        <Item>clipset@veh@low@ds@hit_wheel@idle_a</Item>
+        <Item>clipset@veh@low@ds@hit_wheel@idle_b</Item>
+        <Item>clipset@veh@low@ds@hit_wheel@idle_c</Item>
+      </FirstPersonRoadRageClipSets>
+      <CellphoneClipsets>
+        <CellphoneClipsetDS>ANIM_GROUP_CELLPHONE_IN_CAR_DS</CellphoneClipsetDS>
+        <CellphoneClipsetPS>ANIM_GROUP_CELLPHONE_IN_CAR_PS</CellphoneClipsetPS>
+        <CellphoneClipsetDS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_LOW_FPS</CellphoneClipsetDS_FPS>
+        <CellphoneClipsetPS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetPS_FPS>
+      </CellphoneClipsets>
+    </Item>
+    <Item type="CVehicleLayoutInfo">
+      <Name>LAYOUT_RANGER_EVERON</Name>
+      <Seats>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_RANGER_EVERON_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_RANGER_EVERON_FRONT_RIGHT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_REAR_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_RANGER_EVERON_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_REAR_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_RANGER_EVERON_REAR_RIGHT" />
+        </Item>
+      </Seats>
+      <EntryPoints>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_RANGER_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_RANGER_FRONT_RIGHT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_REAR_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_RANGER_EVERON_REAR_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_REAR_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_RANGER_EVERON_REAR_RIGHT" />
+        </Item>
+      </EntryPoints>
+      <LayoutFlags>StreamAnims UseVanOpenDoorBlendParams UseDoorOscillation UseLeanSteerAnims UseLowerDoorBlockTest</LayoutFlags>
+      <BicycleInfo ref="NULL" />
+      <AnimRateSet ref="NULL" />
+      <HandsUpClipSetId>busted_vehicle_std</HandsUpClipSetId>
+      <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+      <MaxXAcceleration value="4.000000" />
+      <BodyLeanXApproachSpeed value="5.000000" />
+      <BodyLeanXSmallDelta value="0.300000" />
+      <LookBackApproachSpeedScale value="1.000000" />
+      <FirstPersonAdditiveIdleClipSets>
+        <Item>clipset@veh@van@ds@idle_a</Item>
+        <Item>clipset@veh@van@ds@idle_b</Item>
+        <Item>clipset@veh@van@ds@idle_c</Item>
+        <Item>clipset@veh@van@ds@idle_d</Item>
+        <Item>clipset@veh@van@ds@idle_e</Item>
+      </FirstPersonAdditiveIdleClipSets>
+      <FirstPersonRoadRageClipSets>
+        <Item>clipset@veh@van@ds@hit_wheel@idle_a</Item>
+        <Item>clipset@veh@van@ds@hit_wheel@idle_b</Item>
+        <Item>clipset@veh@van@ds@hit_wheel@idle_c</Item>
+      </FirstPersonRoadRageClipSets>
+      <CellphoneClipsets>
+        <CellphoneClipsetDS>ANIM_GROUP_CELLPHONE_IN_CAR_DS</CellphoneClipsetDS>
+        <CellphoneClipsetPS>ANIM_GROUP_CELLPHONE_IN_CAR_PS</CellphoneClipsetPS>
+        <CellphoneClipsetDS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetDS_FPS>
+        <CellphoneClipsetPS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetPS_FPS>
+      </CellphoneClipsets>
+    </Item>
+    <Item type="CVehicleLayoutInfo">
+      <Name>LAYOUT_RANGER_REBLA</Name>
+      <Seats>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_RANGER_REBLA_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_RANGER_REBLA_FRONT_RIGHT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_REAR_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_RANGER_REBLA_REAR_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_REAR_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_RANGER_REBLA_REAR_RIGHT" />
+        </Item>
+      </Seats>
+      <EntryPoints>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_RANGER_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_RANGER_FRONT_RIGHT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_REAR_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_RANGER_REBLA_REAR_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_REAR_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_RANGER_REBLA_REAR_RIGHT" />
+        </Item>
+      </EntryPoints>
+      <LayoutFlags>StreamAnims UseVanOpenDoorBlendParams UseDoorOscillation UseLeanSteerAnims UseLowerDoorBlockTest</LayoutFlags>
+      <BicycleInfo ref="NULL" />
+      <AnimRateSet ref="NULL" />
+      <HandsUpClipSetId>busted_vehicle_std</HandsUpClipSetId>
+      <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+      <MaxXAcceleration value="4.000000" />
+      <BodyLeanXApproachSpeed value="5.000000" />
+      <BodyLeanXSmallDelta value="0.300000" />
+      <LookBackApproachSpeedScale value="1.000000" />
+      <FirstPersonAdditiveIdleClipSets>
+        <Item>clipset@veh@van@ds@idle_a</Item>
+        <Item>clipset@veh@van@ds@idle_b</Item>
+        <Item>clipset@veh@van@ds@idle_c</Item>
+        <Item>clipset@veh@van@ds@idle_d</Item>
+        <Item>clipset@veh@van@ds@idle_e</Item>
+      </FirstPersonAdditiveIdleClipSets>
+      <FirstPersonRoadRageClipSets>
+        <Item>clipset@veh@van@ds@hit_wheel@idle_a</Item>
+        <Item>clipset@veh@van@ds@hit_wheel@idle_b</Item>
+        <Item>clipset@veh@van@ds@hit_wheel@idle_c</Item>
+      </FirstPersonRoadRageClipSets>
+      <CellphoneClipsets>
+        <CellphoneClipsetDS>ANIM_GROUP_CELLPHONE_IN_CAR_DS</CellphoneClipsetDS>
+        <CellphoneClipsetPS>ANIM_GROUP_CELLPHONE_IN_CAR_PS</CellphoneClipsetPS>
+        <CellphoneClipsetDS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetDS_FPS>
+        <CellphoneClipsetPS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetPS_FPS>
+      </CellphoneClipsets>
+    </Item>
+    <Item type="CVehicleLayoutInfo">
+      <Name>LAYOUT_RCTANK</Name>
+      <Seats>
+        <Item>
+          <SeatInfo ref="SEAT_SINGLE_FRONT" />
+          <SeatAnimInfo ref="SEAT_ANIM_RCTANK" />
+        </Item>
+      </Seats>
+      <EntryPoints>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_SINGLE_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_MOWER_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_SINGLE_FRONT_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_MOWER_FRONT_RIGHT" />
+        </Item>
+      </EntryPoints>
+      <LayoutFlags>StreamAnims UseLeanSteerAnims DisableJackingAndBusting</LayoutFlags>
+      <BicycleInfo ref="NULL" />
+      <AnimRateSet ref="NULL" />
+      <HandsUpClipSetId>busted_vehicle_mower</HandsUpClipSetId>
+      <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+      <MaxXAcceleration value="4.000000" />
+      <BodyLeanXApproachSpeed value="5.000000" />
+      <BodyLeanXSmallDelta value="0.300000" />
+      <LookBackApproachSpeedScale value="1.000000" />
+      <FirstPersonAdditiveIdleClipSets />
+      <FirstPersonRoadRageClipSets />
+      <CellphoneClipsets>
+        <CellphoneClipsetDS>ANIM_GROUP_CELLPHONE_IN_CAR_DS</CellphoneClipsetDS>
+        <CellphoneClipsetPS>ANIM_GROUP_CELLPHONE_IN_CAR_PS</CellphoneClipsetPS>
+        <CellphoneClipsetDS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetDS_FPS>
+        <CellphoneClipsetPS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetPS_FPS>
+      </CellphoneClipsets>
+    </Item>
+    <Item type="CVehicleLayoutInfo">
+      <Name>LAYOUT_LOW_VAGRANT</Name>
+      <Seats>
+        <Item>
+          <SeatInfo ref="SEAT_LOW_FRONT_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_LOW_VAGRANT_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_LOW_FRONT_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_LOW_VAGRANT_FRONT_RIGHT" />
+        </Item>
+      </Seats>
+      <EntryPoints>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_LOW_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_LOW_VAGRANT_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_LOW_FRONT_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_LOW_VAGRANT_FRONT_RIGHT" />
+        </Item>
+      </EntryPoints>
+      <LayoutFlags>StreamAnims UseLeanSteerAnims UseSteeringWheelIk UseFinerAlignTolerance</LayoutFlags>
+      <BicycleInfo ref="NULL" />
+      <AnimRateSet ref="STD_LOW_ANIM_RATE_SET" />
+      <HandsUpClipSetId>busted_vehicle_low</HandsUpClipSetId>
+      <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+      <MaxXAcceleration value="15.000000" />
+      <BodyLeanXApproachSpeed value="10.000000" />
+      <BodyLeanXSmallDelta value="0.400000" />
+      <LookBackApproachSpeedScale value="0.500000" />
+      <FirstPersonAdditiveIdleClipSets>
+        <Item>clipset@veh@low@ds@idle_a</Item>
+        <Item>clipset@veh@low@ds@idle_b</Item>
+        <Item>clipset@veh@low@ds@idle_c</Item>
+        <Item>clipset@veh@low@ds@idle_d</Item>
+        <Item>clipset@veh@low@ds@idle_e</Item>
+      </FirstPersonAdditiveIdleClipSets>
+      <FirstPersonRoadRageClipSets>
+        <Item>clipset@veh@low@ds@hit_wheel@idle_a</Item>
+        <Item>clipset@veh@low@ds@hit_wheel@idle_b</Item>
+        <Item>clipset@veh@low@ds@hit_wheel@idle_c</Item>
+      </FirstPersonRoadRageClipSets>
+      <CellphoneClipsets>
+        <CellphoneClipsetDS>ANIM_GROUP_CELLPHONE_IN_CAR_DS</CellphoneClipsetDS>
+        <CellphoneClipsetPS>ANIM_GROUP_CELLPHONE_IN_CAR_PS</CellphoneClipsetPS>
+        <CellphoneClipsetDS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetDS_FPS>
+        <CellphoneClipsetPS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetPS_FPS>
+      </CellphoneClipsets>
+    </Item>
+    <Item type="CVehicleLayoutInfo">
+      <Name>LAYOUT_STD_OUTLAW</Name>
+      <Seats>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_STD_OUTLAW_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_STD_OUTLAW_FRONT_RIGHT" />
+        </Item>
+      </Seats>
+      <EntryPoints>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_STANDARD_FRONT_LEFT" />
+        </Item>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_STANDARD_FRONT_RIGHT" />
+        </Item>
+      </EntryPoints>
+      <LayoutFlags>StreamAnims UseDoorOscillation UseLeanSteerAnims UseSteeringWheelIk UseFinerAlignTolerance</LayoutFlags>
+      <BicycleInfo ref="NULL" />
+      <AnimRateSet ref="STD_LOW_ANIM_RATE_SET" />
+      <HandsUpClipSetId>busted_vehicle_std</HandsUpClipSetId>
+      <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+      <MaxXAcceleration value="4.000000" />
+      <BodyLeanXApproachSpeed value="5.000000" />
+      <BodyLeanXSmallDelta value="0.300000" />
+      <LookBackApproachSpeedScale value="1.000000" />
+      <FirstPersonAdditiveIdleClipSets>
+        <Item>clipset@veh@std@ds@idle_a</Item>
+        <Item>clipset@veh@std@ds@idle_b</Item>
+        <Item>clipset@veh@std@ds@idle_c</Item>
+        <Item>clipset@veh@std@ds@idle_d</Item>
+        <Item>clipset@veh@std@ds@idle_e</Item>
+      </FirstPersonAdditiveIdleClipSets>
+      <FirstPersonRoadRageClipSets>
+        <Item>clipset@veh@std@ds@hit_wheel@idle_a</Item>
+        <Item>clipset@veh@std@ds@hit_wheel@idle_b</Item>
+        <Item>clipset@veh@std@ds@hit_wheel@idle_c</Item>
+      </FirstPersonRoadRageClipSets>
+      <CellphoneClipsets>
+        <CellphoneClipsetDS>ANIM_GROUP_CELLPHONE_IN_CAR_DS</CellphoneClipsetDS>
+        <CellphoneClipsetPS>ANIM_GROUP_CELLPHONE_IN_CAR_PS</CellphoneClipsetPS>
+        <CellphoneClipsetDS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetDS_FPS>
+        <CellphoneClipsetPS_FPS>ANIM_GROUP_CELLPHONE_IN_CAR_DS_FPS</CellphoneClipsetPS_FPS>
+      </CellphoneClipsets>
+    </Item>
+  </VehicleLayoutInfos>
+  <VehicleScenarioLayoutInfos />
+  <SeatOverrideAnimInfos />
+  <InVehicleOverrideInfos />
+  <FirstPersonDriveByLookAroundData>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>LOW_KANJO_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-193.000000" y="162.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.240000" />
+            <AngleToBlendInOffset x="20.000000" y="162.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="20.000000" y="162.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.020000" />
+            <AngleToBlendInOffset x="20.000000" y="70.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-10.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="20.000000" y="70.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="50.000000" y="193.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.025000" />
+            <AngleToBlendInOffset x="50.000000" y="193.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.090000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-4.500000" y="-13.500000" />
+        <AngleToBlendInExtraPitch x="90.000000" y="145.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.360000" />
+        <HeadingLimitsRight x="0.410000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.110000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>LOW_KANJO_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-193.000000" y="162.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.015000" />
+            <AngleToBlendInOffset x="50.000000" y="193.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.055000" />
+            <AngleToBlendInOffset x="50.000000" y="193.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.090000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-4.500000" y="-13.500000" />
+        <AngleToBlendInExtraPitch x="90.000000" y="162.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.240000" />
+            <AngleToBlendInOffset x="20.000000" y="162.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="20.000000" y="162.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.020000" />
+            <AngleToBlendInOffset x="20.000000" y="70.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-7.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="20.000000" y="70.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.360000" />
+        <HeadingLimitsRight x="0.410000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.110000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>LOW_OUTLAW_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-180.000000" y="150.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.330000" />
+            <AngleToBlendInOffset x="30.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.075000" />
+            <AngleToBlendInOffset x="30.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.050000" />
+            <AngleToBlendInOffset x="30.000000" y="100.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-15.000000" y="10.000000" />
+        <AngleToBlendInExtraPitch x="30.000000" y="75.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="30.000000" y="180.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.160000" />
+            <AngleToBlendInOffset x="50.000000" y="180.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-2.000000" y="-12.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="90.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.380000" y="0.430000" />
+        <HeadingLimitsRight x="0.480000" y="0.530000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.050000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>LOW_OUTLAW_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-180.000000" y="150.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="30.000000" y="180.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.160000" />
+            <AngleToBlendInOffset x="50.000000" y="180.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="0.000000" y="-10.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="90.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.250000" />
+            <AngleToBlendInOffset x="30.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.075000" />
+            <AngleToBlendInOffset x="30.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-15.000000" y="10.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="75.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.380000" y="0.430000" />
+        <HeadingLimitsRight x="0.480000" y="0.530000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.050000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>RANGER_EVERON_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-190.000000" y="165.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.300000" />
+            <AngleToBlendInOffset x="50.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="50.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-10.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="90.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="0.000000" y="190.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-1.500000" y="-12.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="100.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>RANGER_EVERON_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-190.000000" y="165.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="0.000000" y="190.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-1.500000" y="-12.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="100.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.300000" />
+            <AngleToBlendInOffset x="50.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="50.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-10.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="90.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>RANGER_EVERON_REAR_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-185.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.280000" />
+            <AngleToBlendInOffset x="40.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.150000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-12.000000" y="2.500000" />
+        <AngleToBlendInExtraPitch x="10.000000" y="60.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.185000" />
+            <AngleToBlendInOffset x="100.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="30.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.050000" />
+            <AngleToBlendInOffset x="80.000000" y="120.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-2.500000" y="-5.000000" />
+        <AngleToBlendInExtraPitch x="30.000000" y="100.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>RANGER_EVERON_REAR_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-185.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.185000" />
+            <AngleToBlendInOffset x="100.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="30.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.060000" />
+            <AngleToBlendInOffset x="80.000000" y="120.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-2.500000" y="-5.000000" />
+        <AngleToBlendInExtraPitch x="30.000000" y="100.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.280000" />
+            <AngleToBlendInOffset x="40.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.150000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-12.000000" y="2.500000" />
+        <AngleToBlendInExtraPitch x="10.000000" y="60.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>RANGER_REBLA_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-190.000000" y="150.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.250000" />
+            <AngleToBlendInOffset x="40.000000" y="150.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.200000" />
+            <AngleToBlendInOffset x="40.000000" y="150.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-10.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="55.000000" y="150.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="0.000000" y="190.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-2.500000" y="10.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="100.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>RANGER_REBLA_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-190.000000" y="150.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.020000" />
+            <AngleToBlendInOffset x="0.000000" y="190.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-2.500000" y="10.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="100.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.250000" />
+            <AngleToBlendInOffset x="40.000000" y="150.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.200000" />
+            <AngleToBlendInOffset x="40.000000" y="150.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.090000" />
+            <AngleToBlendInOffset x="20.000000" y="50.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-10.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="20.000000" y="150.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>RANGER_REBLA_REAR_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-190.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.280000" />
+            <AngleToBlendInOffset x="40.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.200000" />
+            <AngleToBlendInOffset x="40.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-14.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="40.000000" y="160.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.140000" />
+            <AngleToBlendInOffset x="30.000000" y="190.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="30.000000" y="190.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="30.000000" y="100.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-8.000000" y="-15.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="190.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>RANGER_REBLA_REAR_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-186.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.150000" />
+            <AngleToBlendInOffset x="30.000000" y="186.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="30.000000" y="186.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="30.000000" y="100.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-8.000000" y="-15.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="186.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.280000" />
+            <AngleToBlendInOffset x="40.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.200000" />
+            <AngleToBlendInOffset x="40.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-14.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="40.000000" y="160.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_RETINUE2_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-190.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.325000" />
+            <AngleToBlendInOffset x="40.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.065000" />
+            <AngleToBlendInOffset x="40.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.040000" />
+            <AngleToBlendInOffset x="0.000000" y="100.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-15.000000" y="20.000000" />
+        <AngleToBlendInExtraPitch x="40.000000" y="110.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.110000" />
+            <AngleToBlendInOffset x="60.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.080000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="-12.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="90.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.380000" y="0.430000" />
+        <HeadingLimitsRight x="0.480000" y="0.530000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.050000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_RETINUE2_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-190.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.125000" />
+            <AngleToBlendInOffset x="60.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.090000" />
+            <AngleToBlendInOffset x="40.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="-12.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="90.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.325000" />
+            <AngleToBlendInOffset x="40.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.065000" />
+            <AngleToBlendInOffset x="40.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.040000" />
+            <AngleToBlendInOffset x="0.000000" y="100.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-15.000000" y="20.000000" />
+        <AngleToBlendInExtraPitch x="40.000000" y="110.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.380000" y="0.430000" />
+        <HeadingLimitsRight x="0.480000" y="0.530000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.050000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_ASBO_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-193.000000" y="155.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.260000" />
+            <AngleToBlendInOffset x="20.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="20.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="20.000000" y="155.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-12.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="15.000000" y="70.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="50.000000" y="193.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.060000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.500000" y="-14.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="145.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_ASBO_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-193.000000" y="155.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.015000" />
+            <AngleToBlendInOffset x="50.000000" y="193.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.020000" />
+            <AngleToBlendInOffset x="50.000000" y="193.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.060000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.500000" y="-14.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="145.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.260000" />
+            <AngleToBlendInOffset x="20.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="20.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="20.000000" y="155.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-12.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="15.000000" y="70.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_IMORGON_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-192.000000" y="150.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.200000" />
+            <AngleToBlendInOffset x="20.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="10.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.025000" />
+            <AngleToBlendInOffset x="10.000000" y="30.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-8.000000" y="-7.500000" />
+        <AngleToBlendInExtraPitch x="10.000000" y="30.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.010000" />
+            <AngleToBlendInOffset x="45.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.060000" />
+            <AngleToBlendInOffset x="45.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-4.000000" y="-15.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="140.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.280000" y="0.335000" />
+        <HeadingLimitsRight x="0.400000" y="0.480000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.100000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_IMORGON_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-190.000000" y="150.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.060000" />
+            <AngleToBlendInOffset x="45.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-4.000000" y="-15.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="140.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.200000" />
+            <AngleToBlendInOffset x="20.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="10.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.025000" />
+            <AngleToBlendInOffset x="10.000000" y="30.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-8.000000" y="-7.500000" />
+        <AngleToBlendInExtraPitch x="10.000000" y="30.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.280000" y="0.335000" />
+        <HeadingLimitsRight x="0.400000" y="0.480000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.100000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_KOMODA_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-190.000000" y="163.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.215000" />
+            <AngleToBlendInOffset x="30.000000" y="163.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="30.000000" y="163.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="163.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-10.000000" y="10.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="140.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.040000" />
+            <AngleToBlendInOffset x="40.000000" y="190.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="40.000000" y="190.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.020000" />
+            <AngleToBlendInOffset x="40.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="0.000000" y="-11.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="190.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.320000" y="0.400000" />
+        <HeadingLimitsRight x="0.480000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_KOMODA_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-190.000000" y="163.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.040000" />
+            <AngleToBlendInOffset x="40.000000" y="190.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="40.000000" y="190.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.020000" />
+            <AngleToBlendInOffset x="40.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="0.000000" y="-11.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="190.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.215000" />
+            <AngleToBlendInOffset x="30.000000" y="163.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="30.000000" y="163.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="163.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-10.000000" y="10.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="140.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.320000" y="0.400000" />
+        <HeadingLimitsRight x="0.480000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_KOMODA_REAR_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-170.000000" y="140.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.180000" />
+            <AngleToBlendInOffset x="25.000000" y="140.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.250000" />
+            <AngleToBlendInOffset x="25.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="10.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="140.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.100000" />
+            <AngleToBlendInOffset x="40.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.190000" />
+            <AngleToBlendInOffset x="40.000000" y="170.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.050000" />
+            <AngleToBlendInOffset x="40.000000" y="120.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="1.000000" y="-4.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="170.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.320000" y="0.400000" />
+        <HeadingLimitsRight x="0.480000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_KOMODA_REAR_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-170.000000" y="140.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.180000" />
+            <AngleToBlendInOffset x="40.000000" y="170.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.190000" />
+            <AngleToBlendInOffset x="40.000000" y="170.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.050000" />
+            <AngleToBlendInOffset x="40.000000" y="120.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="1.000000" y="-4.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="170.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.180000" />
+            <AngleToBlendInOffset x="25.000000" y="140.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.250000" />
+            <AngleToBlendInOffset x="25.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="10.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="140.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.320000" y="0.400000" />
+        <HeadingLimitsRight x="0.480000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_SUGOI_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-180.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.260000" />
+            <AngleToBlendInOffset x="55.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="55.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="55.000000" y="160.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="55.000000" y="160.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="50.000000" y="180.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="180.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="1.000000" y="-14.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="150.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_SUGOI_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-180.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.015000" />
+            <AngleToBlendInOffset x="50.000000" y="180.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="180.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="1.000000" y="-14.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="150.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.260000" />
+            <AngleToBlendInOffset x="55.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="55.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="55.000000" y="160.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="55.000000" y="160.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_SUGOI_REAR_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-170.000000" y="150.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.220000" />
+            <AngleToBlendInOffset x="20.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.220000" />
+            <AngleToBlendInOffset x="20.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="20.000000" y="60.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="-0.000000" />
+        <AngleToBlendInExtraPitch x="20.000000" y="60.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.200000" />
+            <AngleToBlendInOffset x="50.000000" y="170.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.155000" />
+            <AngleToBlendInOffset x="50.000000" y="170.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="120.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="1.000000" y="-10.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="120.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_SUGOI_REAR_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-170.000000" y="150.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.200000" />
+            <AngleToBlendInOffset x="50.000000" y="170.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.155000" />
+            <AngleToBlendInOffset x="50.000000" y="170.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="120.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="1.000000" y="-10.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="120.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.220000" />
+            <AngleToBlendInOffset x="20.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.220000" />
+            <AngleToBlendInOffset x="20.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="20.000000" y="60.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="-0.000000" />
+        <AngleToBlendInExtraPitch x="20.000000" y="60.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_SULTAN2_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-193.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.260000" />
+            <AngleToBlendInOffset x="55.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="55.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.040000" />
+            <AngleToBlendInOffset x="20.000000" y="60.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-12.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="55.000000" y="100.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="50.000000" y="193.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-2.500000" y="-11.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="145.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_SULTAN2_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-193.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.015000" />
+            <AngleToBlendInOffset x="50.000000" y="193.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-2.500000" y="-11.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="145.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.260000" />
+            <AngleToBlendInOffset x="55.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="55.000000" y="160.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.040000" />
+            <AngleToBlendInOffset x="20.000000" y="60.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-12.000000" y="6.000000" />
+        <AngleToBlendInExtraPitch x="55.000000" y="100.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_SULTAN2_REAR_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-185.000000" y="155.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.220000" />
+            <AngleToBlendInOffset x="20.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.120000" />
+            <AngleToBlendInOffset x="20.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="20.000000" y="60.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="-0.000000" />
+        <AngleToBlendInExtraPitch x="20.000000" y="60.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.200000" />
+            <AngleToBlendInOffset x="50.000000" y="170.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.155000" />
+            <AngleToBlendInOffset x="50.000000" y="170.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.080000" />
+            <AngleToBlendInOffset x="90.000000" y="130.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="1.000000" y="-10.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="120.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_SULTAN2_REAR_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-185.000000" y="155.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.200000" />
+            <AngleToBlendInOffset x="50.000000" y="170.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.155000" />
+            <AngleToBlendInOffset x="50.000000" y="170.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.080000" />
+            <AngleToBlendInOffset x="90.000000" y="130.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="1.000000" y="-10.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="120.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.220000" />
+            <AngleToBlendInOffset x="20.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.120000" />
+            <AngleToBlendInOffset x="20.000000" y="100.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="20.000000" y="60.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="-0.000000" />
+        <AngleToBlendInExtraPitch x="20.000000" y="60.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>LOW_VAGRANT_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-90.000000" y="150.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.250000" />
+            <AngleToBlendInOffset x="50.000000" y="150.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.075000" />
+            <AngleToBlendInOffset x="30.000000" y="150.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-15.000000" y="10.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="100.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.050000" />
+            <AngleToBlendInOffset x="30.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="30.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="90.000000" y="180.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="0.000000" />
+        <AngleToBlendInExtraPitch x="40.000000" y="100.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.380000" y="0.430000" />
+        <HeadingLimitsRight x="0.480000" y="0.530000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.050000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>LOW_VAGRANT_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-90.000000" y="150.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.050000" />
+            <AngleToBlendInOffset x="30.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="30.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="90.000000" y="180.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-5.000000" y="0.000000" />
+        <AngleToBlendInExtraPitch x="40.000000" y="100.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.250000" />
+            <AngleToBlendInOffset x="50.000000" y="150.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.075000" />
+            <AngleToBlendInOffset x="30.000000" y="150.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-15.000000" y="10.000000" />
+        <AngleToBlendInExtraPitch x="50.000000" y="100.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.380000" y="0.430000" />
+        <HeadingLimitsRight x="0.480000" y="0.530000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.050000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_VSTR_FRONT_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-193.000000" y="155.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.225000" />
+            <AngleToBlendInOffset x="55.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.140000" />
+            <AngleToBlendInOffset x="55.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.020000" />
+            <AngleToBlendInOffset x="20.000000" y="100.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-9.000000" y="0.000000" />
+        <AngleToBlendInExtraPitch x="10.000000" y="55.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.015000" />
+            <AngleToBlendInOffset x="50.000000" y="193.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-2.500000" y="-15.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="100.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.200000" y="0.380000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_VSTR_FRONT_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-193.000000" y="155.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.015000" />
+            <AngleToBlendInOffset x="50.000000" y="193.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="0.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-2.500000" y="-15.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="100.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.225000" />
+            <AngleToBlendInOffset x="55.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.140000" />
+            <AngleToBlendInOffset x="55.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.020000" />
+            <AngleToBlendInOffset x="20.000000" y="100.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-9.000000" y="0.000000" />
+        <AngleToBlendInExtraPitch x="10.000000" y="55.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_VSTR_REAR_LEFT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-185.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="-0.225000" />
+            <AngleToBlendInOffset x="55.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.140000" />
+            <AngleToBlendInOffset x="55.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.030000" />
+            <AngleToBlendInOffset x="20.000000" y="100.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-9.000000" y="-2.000000" />
+        <AngleToBlendInExtraPitch x="10.000000" y="55.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.215000" />
+            <AngleToBlendInOffset x="50.000000" y="185.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="185.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-0.000000" y="-12.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="100.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.200000" y="0.380000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>STD_VSTR_REAR_RIGHT</Name>
+      <AllowLookback value="true" />
+      <HeadingLimits x="-182.000000" y="160.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.215000" />
+            <AngleToBlendInOffset x="50.000000" y="185.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="185.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.030000" />
+            <AngleToBlendInOffset x="50.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-0.000000" y="-12.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="100.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="0.225000" />
+            <AngleToBlendInOffset x="55.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.140000" />
+            <AngleToBlendInOffset x="55.000000" y="155.000000" />
+          </Item>
+          <Item>
+            <Offset value="-0.030000" />
+            <AngleToBlendInOffset x="20.000000" y="100.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-9.000000" y="-2.000000" />
+        <AngleToBlendInExtraPitch x="10.000000" y="55.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.240000" y="0.420000" />
+        <HeadingLimitsRight x="0.460000" y="0.500000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.010000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>LOW_FURIA_FRONT_LEFT</Name>
+      <AllowLookback value="false" />
+      <HeadingLimits x="-90.000000" y="90.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.125000" />
+            <AngleToBlendInOffset x="20.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="20.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="20.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="2.000000" y="-7.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="85.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.025000" />
+            <AngleToBlendInOffset x="0.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.075000" />
+            <AngleToBlendInOffset x="0.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-1.000000" y="-10.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="90.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.380000" y="0.430000" />
+        <HeadingLimitsRight x="0.480000" y="0.530000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.050000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+      <Name>LOW_FURIA_FRONT_RIGHT</Name>
+      <AllowLookback value="false" />
+      <HeadingLimits x="-90.000000" y="90.000000" />
+      <DataLeft>
+        <Offsets>
+          <Item>
+            <Offset value="0.025000" />
+            <AngleToBlendInOffset x="0.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.075000" />
+            <AngleToBlendInOffset x="0.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="0.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="-1.000000" y="-10.500000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="90.000000" />
+      </DataLeft>
+      <DataRight>
+        <Offsets>
+          <Item>
+            <Offset value="-0.125000" />
+            <AngleToBlendInOffset x="20.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.100000" />
+            <AngleToBlendInOffset x="20.000000" y="90.000000" />
+          </Item>
+          <Item>
+            <Offset value="0.000000" />
+            <AngleToBlendInOffset x="20.000000" y="90.000000" />
+          </Item>
+        </Offsets>
+        <ExtraRelativePitch x="2.000000" y="-7.000000" />
+        <AngleToBlendInExtraPitch x="0.000000" y="85.000000" />
+      </DataRight>
+      <WheelClipInfo>
+        <HeadingLimitsLeft x="0.380000" y="0.430000" />
+        <HeadingLimitsRight x="0.480000" y="0.530000" />
+        <PitchLimits x="0.470000" y="0.530000" />
+        <PitchOffset x="0.000000" y="0.050000" />
+        <WheelAngleLimits x="-0.700000" y="0.000000" />
+        <WheelAngleOffset x="0.010000" y="0.040000" />
+        <MaxWheelOffsetY value="0.170000" />
+        <WheelClipLerpInRate value="0.150000" />
+        <WheelClipLerpOutRate value="0.180000" />
+      </WheelClipInfo>
+    </Item>
+  </FirstPersonDriveByLookAroundData>
+</CVehicleMetadataMgr>

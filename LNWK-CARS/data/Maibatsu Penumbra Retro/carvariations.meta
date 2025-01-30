@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>pentro</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            89
+            10
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            89
+            28
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            89
+            70
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            103
+            27
+            104
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            80
+            111
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            147
+            28
+            4
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            50
+            89
+            53
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            95
+            89
+            97
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            108
+            89
+            18
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            28
+            47
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            28
+            0
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>2440_pentro_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="70" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="30" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2440" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>pentro2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            89
+            10
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            89
+            28
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            89
+            70
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            103
+            27
+            104
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            80
+            111
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            147
+            28
+            4
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            50
+            89
+            53
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            95
+            89
+            97
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            108
+            89
+            18
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            28
+            47
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            28
+            0
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>2436_pentro2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="70" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="30" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2440" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>pentro3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            89
+            10
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            89
+            28
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            89
+            70
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            103
+            27
+            104
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            80
+            111
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            147
+            28
+            4
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            50
+            89
+            53
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            95
+            89
+            97
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            108
+            89
+            18
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            28
+            47
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            28
+            0
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>2434_pentro3_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="70" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="30" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2440" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>pentrogpr</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            89
+            10
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            89
+            28
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            89
+            70
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            103
+            27
+            104
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            80
+            111
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            147
+            28
+            4
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            50
+            89
+            53
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            95
+            89
+            97
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            108
+            89
+            18
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            28
+            47
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            28
+            0
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>2438_pentrogpr_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="70" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="30" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2440" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>pentrogpr2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            89
+            10
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            89
+            28
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            89
+            70
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            103
+            27
+            104
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            80
+            111
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            147
+            28
+            4
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            50
+            89
+            53
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            95
+            89
+            97
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            108
+            89
+            18
+            134 
+            28
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            28
+            47
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            28
+            0
+            134 
+            3
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>2432_pentrogpr2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="70" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="30" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2440" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

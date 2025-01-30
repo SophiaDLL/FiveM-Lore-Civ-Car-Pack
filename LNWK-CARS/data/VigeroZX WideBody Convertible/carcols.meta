@@ -1,0 +1,2898 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+    <Item>
+      <kitName>835_vigerozxwbc_modkit</kitName>
+      <id value="835"/>
+      <kitType>MKT_SPORT</kitType>
+      <visibleMods>
+		<Item>
+          <modelName>vigerozxwb_boost1</modelName>
+          <modShopLabel>CMOD_BOS_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vigerozxwb_boost2</modelName>
+          <modShopLabel>CMOD_BOS_2</modShopLabel>
+          <linkedModels>
+		  <Item>vigerozxwb_boost1</Item>
+		  </linkedModels>
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vigerozxwb_boost3</modelName>
+          <modShopLabel>CMOD_BOS_3</modShopLabel>
+          <linkedModels>
+		  <Item>vigerozxwb_boost1</Item>
+		  <Item>vigerozxwb_boost2</Item>
+		  </linkedModels>
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_bumf2</modelName>
+          <modShopLabel>VIG3_BUMF_3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_m</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_bumf3</modelName>
+          <modShopLabel>VIG3_BUMF_2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_m</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_bumf4</modelName>
+          <modShopLabel>VIG3_BUMF_4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_m</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_bumf5</modelName>
+          <modShopLabel>VIG3_BUMF_5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_m</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_bumf6</modelName>
+          <modShopLabel>VIG3_BUMF_6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_m</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_bumf7</modelName>
+          <modShopLabel>VIG3_BUMF_7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_m</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_bumf8</modelName>
+          <modShopLabel>VIG3_BUMF_8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_m</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_bumf9</modelName>
+          <modShopLabel>VIG3_BUMF_9</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_m</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_bumf10</modelName>
+          <modShopLabel>VIG3_BUMF_10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_m</Item>
+		  </turnOffBones> 
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_bumr2</modelName>
+          <modShopLabel>VIG3_BUMR_2</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+         	<Item>misc_k</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_bumr3</modelName>
+          <modShopLabel>VIG3_BUMR_3</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+         	<Item>misc_k</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff2</modelName>
+          <modShopLabel>VIG3_DIFF_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff3</modelName>
+          <modShopLabel>VIG3_DIFF_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff4</modelName>
+          <modShopLabel>VIG3_DIFF_4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff5</modelName>
+          <modShopLabel>VIG3_DIFF_5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff6</modelName>
+          <modShopLabel>VIG3_DIFF_6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff7</modelName>
+          <modShopLabel>VIG3_DIFF_7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff8</modelName>
+          <modShopLabel>VIG3_DIFF_8</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff9</modelName>
+          <modShopLabel>VIG3_DIFF_9</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff10</modelName>
+          <modShopLabel>VIG3_DIFF_10</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff11</modelName>
+          <modShopLabel>VIG3_DIFF_11</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff12</modelName>
+          <modShopLabel>VIG3_DIFF_12</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff13</modelName>
+          <modShopLabel>VIG3_DIFF_13</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_diff14</modelName>
+          <modShopLabel>VIG3_DIFF_14</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_exh1</modelName>
+          <modShopLabel>VIG3_EX1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_exh2</modelName>
+          <modShopLabel>VIG3_EX2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_exh3</modelName>
+          <modShopLabel>VIG3_EX3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_exh4</modelName>
+          <modShopLabel>VIG3_EX4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_exh5</modelName>
+          <modShopLabel>VIG3_EX5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_exh6</modelName>
+          <modShopLabel>VIG3_EX6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_exh7</modelName>
+          <modShopLabel>VIG3_EX7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_exh8</modelName>
+          <modShopLabel>VIG3_EX8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_grill2</modelName>
+          <modShopLabel>VIG3_GRILL_2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_grill3</modelName>
+          <modShopLabel>VIG3_GRILL_3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_grill4</modelName>
+          <modShopLabel>VIG3_GRILL_4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_grill5</modelName>
+          <modShopLabel>VIG3_GRILL_5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_grill6</modelName>
+          <modShopLabel>VIG3_GRILL_6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_grill7</modelName>
+          <modShopLabel>VIG3_GRILL_7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_grill8</modelName>
+          <modShopLabel>VIG3_GRILL_8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_grill9</modelName>
+          <modShopLabel>VIG3_GRILL_9</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_grill10</modelName>
+          <modShopLabel>VIG3_GRILL_10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		 <Item>
+          <modelName>vig3_hood2</modelName>
+          <modShopLabel>VIG3_HOOD_2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood3</modelName>
+          <modShopLabel>VIG3_HOOD_3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood4</modelName>
+          <modShopLabel>VIG3_HOOD_4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood5</modelName>
+          <modShopLabel>VIG3_HOOD_5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood6</modelName>
+          <modShopLabel>VIG3_HOOD_6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood7</modelName>
+          <modShopLabel>VIG3_HOOD_7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood8</modelName>
+          <modShopLabel>VIG3_HOOD_8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood9</modelName>
+          <modShopLabel>VIG3_HOOD_9</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood10</modelName>
+          <modShopLabel>VIG3_HOOD_10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood11</modelName>
+          <modShopLabel>VIG3_HOOD_11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood12</modelName>
+          <modShopLabel>VIG3_HOOD_12</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood13</modelName>
+          <modShopLabel>VIG3_HOOD_13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood14</modelName>
+          <modShopLabel>VIG3_HOOD_14</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood15</modelName>
+          <modShopLabel>VIG3_HOOD_15</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood16</modelName>
+          <modShopLabel>VIG3_HOOD_16</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood17</modelName>
+          <modShopLabel>VIG3_HOOD_17</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood18</modelName>
+          <modShopLabel>VIG3_HOOD_18</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood19</modelName>
+          <modShopLabel>VIG3_HOOD_19</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood20</modelName>
+          <modShopLabel>VIG3_HOOD_20</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood21</modelName>
+          <modShopLabel>VIG3_HOOD_21</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood22</modelName>
+          <modShopLabel>VIG3_HOOD_22</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood23</modelName>
+          <modShopLabel>VIG3_HOOD_23</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood24</modelName>
+          <modShopLabel>VIG3_HOOD_24</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood25</modelName>
+          <modShopLabel>VIG3_HOOD_25</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood26</modelName>
+          <modShopLabel>VIG3_HOOD_26</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_hood27</modelName>
+          <modShopLabel>VIG3_HOOD_27</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>bonnet</Item>
+		  </turnOffBones> 
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv1</modelName>
+          <modShopLabel>VIG3_LIV_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv2</modelName>
+          <modShopLabel>VIG3_LIV_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv3</modelName>
+          <modShopLabel>VIG3_LIV_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv4</modelName>
+          <modShopLabel>VIG3_LIV_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv5</modelName>
+          <modShopLabel>VIG3_LIV_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv6</modelName>
+          <modShopLabel>VIG3_LIV_6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv7</modelName>
+          <modShopLabel>VIG3_LIV_7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv8</modelName>
+          <modShopLabel>VIG3_LIV_8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv9</modelName>
+          <modShopLabel>VIG3_LIV_9</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv10</modelName>
+          <modShopLabel>VIG3_LIV_10</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv11</modelName>
+          <modShopLabel>VIG3_LIV_11</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv12</modelName>
+          <modShopLabel>VIG3_LIV_12</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv13</modelName>
+          <modShopLabel>VIG3_LIV_13</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv14</modelName>
+          <modShopLabel>VIG3_LIV_14</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv15</modelName>
+          <modShopLabel>VIG3_LIV_15</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv16</modelName>
+          <modShopLabel>VIG3_LIV_16</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv17</modelName>
+          <modShopLabel>VIG3_LIV_17</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_liv18</modelName>
+          <modShopLabel>VIG3_LIV_18</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_mirr_df2</modelName>
+          <modShopLabel>VIG3_MIRR2</modShopLabel>
+          <linkedModels>
+			<Item>vig3_mirr_pf2</Item>
+		  </linkedModels>
+          <turnOffBones>
+			<Item>misc_a</Item>
+			<Item>misc_b</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_mirr_df3</modelName>
+          <modShopLabel>VIG3_MIRR3</modShopLabel>
+          <linkedModels>
+			<Item>vig3_mirr_pf3</Item>
+		  </linkedModels>
+          <turnOffBones>
+			<Item>misc_a</Item>
+			<Item>misc_b</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_mirr_df4</modelName>
+          <modShopLabel>VIG3_MIRR4</modShopLabel>
+          <linkedModels>
+			<Item>vig3_mirr_pf4</Item>
+		  </linkedModels>
+          <turnOffBones>
+			<Item>misc_a</Item>
+			<Item>misc_b</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_mirr_df5</modelName>
+          <modShopLabel>VIG3_MIRR5</modShopLabel>
+          <linkedModels>
+			<Item>vig3_mirr_pf5</Item>
+		  </linkedModels>
+          <turnOffBones>
+			<Item>misc_a</Item>
+			<Item>misc_b</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_mirr_df6</modelName>
+          <modShopLabel>VIG3_MIRR6</modShopLabel>
+          <linkedModels>
+			<Item>vig3_mirr_pf6</Item>
+		  </linkedModels>
+          <turnOffBones>
+			<Item>misc_a</Item>
+			<Item>misc_b</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt2</modelName>
+          <modShopLabel>VIG3_SKRT_2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt3</modelName>
+          <modShopLabel>VIG3_SKRT_3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt4</modelName>
+          <modShopLabel>VIG3_SKRT_4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt5</modelName>
+          <modShopLabel>VIG3_SKRT_5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt6</modelName>
+          <modShopLabel>VIG3_SKRT_6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt7</modelName>
+          <modShopLabel>VIG3_SKRT_7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt8</modelName>
+          <modShopLabel>VIG3_SKRT_8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt9</modelName>
+          <modShopLabel>VIG3_SKRT_9</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt10</modelName>
+          <modShopLabel>VIG3_SKRT_10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt11</modelName>
+          <modShopLabel>VIG3_SKRT_11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt12</modelName>
+          <modShopLabel>VIG3_SKRT_12</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt13</modelName>
+          <modShopLabel>VIG3_SKRT_13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt14</modelName>
+          <modShopLabel>VIG3_SKRT_14</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_skirt15</modelName>
+          <modShopLabel>VIG3_SKRT_15</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_split2</modelName>
+          <modShopLabel>VIG3_SPLIT_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_split3</modelName>
+          <modShopLabel>VIG3_SPLIT_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_split4</modelName>
+          <modShopLabel>VIG3_SPLIT_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_split5</modelName>
+          <modShopLabel>VIG3_SPLIT_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_split6</modelName>
+          <modShopLabel>VIG3_SPLIT_6</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_split7</modelName>
+          <modShopLabel>VIG3_SPLIT_7</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_split8</modelName>
+          <modShopLabel>VIG3_SPLIT_8</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_split9</modelName>
+          <modShopLabel>VIG3_SPLIT_9</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_split10</modelName>
+          <modShopLabel>VIG3_SPLIT_10</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_WING_L</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_strip1</modelName>
+          <modShopLabel>VIG3_STRIP_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_strip2</modelName>
+          <modShopLabel>VIG3_STRIP_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_strip3</modelName>
+          <modShopLabel>VIG3_STRIP_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vigerozxwbc_lip1</modelName>
+          <modShopLabel>VIGEROZXWBC_LIP1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>spoiler</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vigerozxwbc_lip1a</modelName>
+          <modShopLabel>VIGEROZXWBC_LIP1A</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>spoiler</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vigerozxwbc_lip2</modelName>
+          <modShopLabel>VIGEROZXWBC_LIP2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>spoiler</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vigerozxwbc_lip2a</modelName>
+          <modShopLabel>VIGEROZXWBC_LIP2A</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>spoiler</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vigerozxwbc_lip3</modelName>
+          <modShopLabel>VIGEROZXWBC_LIP3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>spoiler</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vigerozxwbc_lip3a</modelName>
+          <modShopLabel>VIGEROZXWBC_LIP3A</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>spoiler</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing2</modelName>
+          <modShopLabel>VIG3_WING_2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>spoiler</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing3</modelName>
+          <modShopLabel>VIG3_WING_3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>spoiler</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing4</modelName>
+          <modShopLabel>VIG3_WING_4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>spoiler</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing5</modelName>
+          <modShopLabel>VIG3_WING_5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>spoiler</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing6</modelName>
+          <modShopLabel>VIG3_WING_6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>spoiler</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing7</modelName>
+          <modShopLabel>VIG3_WING_7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing8</modelName>
+          <modShopLabel>VIG3_WING_8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing9</modelName>
+          <modShopLabel>VIG3_WING_9</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing10</modelName>
+          <modShopLabel>VIG3_WING_10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing11</modelName>
+          <modShopLabel>VIG3_WING_11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing12</modelName>
+          <modShopLabel>VIG3_WING_12</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing13</modelName>
+          <modShopLabel>VIG3_WING_13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vig3_wing14</modelName>
+          <modShopLabel>VIG3_WING_14</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>spoiler</Item>
+		  </turnOffBones> 
+          <type>VMT_SPOILER</type>
+          <bone>spoiler</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+	  <linkMods>
+		<Item>
+          <modelName>vigerozxwb_boost1</modelName>
+          <bone>chasis</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>vigerozxwb_boost2</modelName>
+          <bone>chasis</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>vig3_mirr_pf2</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>vig3_mirr_pf3</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>vig3_mirr_pf4</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>vig3_mirr_pf5</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>vig3_mirr_pf6</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+	  </linkMods>
+      <statMods>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="75"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="40"/>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="60"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="80"/>
+          <audioApply value="1.00000000"/>
+          <weight value="30"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="40"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="5"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="10"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="15"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames>
+        <Item>
+          <slot>NULL</slot>
+          <name>NULL</name>
+        </Item>
+      </slotNames>
+      <liveryNames/>
+      <livery2Names/>
+    </Item>
+  </Kits>
+</CVehicleModelInfoVarGlobal>

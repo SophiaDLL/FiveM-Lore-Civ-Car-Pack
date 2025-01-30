@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>s230</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            10
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            61
+            61
+            63
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            7
+            8
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            9
+            9
+            10
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            111
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            93
+            93
+            93
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            63
+            63
+            64
+            0
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            28
+            28
+            27
+            0
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            2
+            4
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            51
+            50
+            111
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            34
+            32
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            107
+            107
+            107
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            64
+            64
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            36
+            0
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            125
+            125
+            125
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            145
+            145
+            145
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>863_s230_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="20" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="80" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+<!--<Item>
+      <modelName>s2302</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            10
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            28
+            28
+            30
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            63
+            63
+            64
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            96
+            96
+            96
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            52
+            52
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            88
+            89
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            2
+            135
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            107
+            107
+            107
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            38
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>864_s2302_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="20" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="80" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item-->
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -1,0 +1,5359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+    <Item>
+      <kitName>682_tampax_modkit</kitName>
+      <id value="682" />	 	  
+      <kitType>MKT_STANDARD</kitType>
+      <visibleMods>
+	  <!-- livery -->
+        <Item>
+          <modelName>tamx_livery1</modelName>
+          <modShopLabel>tamx_livery1</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_livery2</modelName>
+          <modShopLabel>tamx_livery2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_livery4</modelName>
+          <modShopLabel>tamx_livery4</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_livery5</modelName>
+          <modShopLabel>tamx_livery5</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_livery6</modelName>
+          <modShopLabel>tamx_livery6</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_livery7</modelName>
+          <modShopLabel>tamx_livery7</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_livery8</modelName>
+          <modShopLabel>tamx_livery8</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_livery9</modelName>
+          <modShopLabel>tamx_livery9</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_livery10</modelName>
+          <modShopLabel>tamx_livery10</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_livery3</modelName>
+          <modShopLabel>tamx_livery3</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_livery31</modelName>
+          <modShopLabel>tamx_livery31</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_livery32</modelName>
+          <modShopLabel>tamx_livery32</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- sunstrip -->
+        <Item>
+          <modelName>tamx_suncle2</modelName>
+          <modShopLabel>tamx_suncle2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>extra_3</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_suncarbm</modelName>
+          <modShopLabel>tamx_suncarbm</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>extra_3</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- windscreen -->
+        <Item>
+          <modelName>tamx_screen1</modelName>
+          <modShopLabel>tamx_screen1</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>extra_4</Item>
+            <Item>windscreen_r</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_screen2</modelName>
+          <modShopLabel>tamx_screen2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>extra_4</Item>
+            <Item>windscreen_r</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_screen1b</modelName>
+          <modShopLabel>tamx_screen1b</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>extra_4</Item>
+            <Item>windscreen_r</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_screen2b</modelName>
+          <modShopLabel>tamx_screen2b</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>extra_4</Item>
+            <Item>windscreen_r</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- licence plate -->
+        <Item>
+          <modelName>tamx_platduk</modelName>
+          <modShopLabel>tamx_platduk</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_m</Item>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_platgau</modelName>
+          <modShopLabel>tamx_platgau</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_m</Item>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null1</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_m</Item>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- grill -->
+        <Item>
+          <modelName>tamx_grill1</modelName>
+          <modShopLabel>tamx_grill1</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_grill2black</modelName>
+          <modShopLabel>tamx_grill2black</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_grill2carb</modelName>
+          <modShopLabel>tamx_grill2carb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_grill2al</modelName>
+          <modShopLabel>tamx_grill2al</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- loovers -->
+        <Item>
+          <modelName>tamx_loov1black</modelName>
+          <modShopLabel>tamx_loov1black</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov2black</modelName>
+          <modShopLabel>tamx_loov2black</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov3black</modelName>
+          <modShopLabel>tamx_loov3black</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov1al</modelName>
+          <modShopLabel>tamx_loov1al</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov2al</modelName>
+          <modShopLabel>tamx_loov2al</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov3al</modelName>
+          <modShopLabel>tamx_loov3al</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov1carb</modelName>
+          <modShopLabel>tamx_loov1carb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov2carb</modelName>
+          <modShopLabel>tamx_loov2carb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov3carb</modelName>
+          <modShopLabel>tamx_loov3carb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov1sblack</modelName>
+          <modShopLabel>tamx_loov1sblack</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov2sblack</modelName>
+          <modShopLabel>tamx_loov2sblack</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov3sblack</modelName>
+          <modShopLabel>tamx_loov3sblack</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov1sal</modelName>
+          <modShopLabel>tamx_loov1sal</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov2sal</modelName>
+          <modShopLabel>tamx_loov2sal</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov3sal</modelName>
+          <modShopLabel>tamx_loov3sal</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov1scarb</modelName>
+          <modShopLabel>tamx_loov1scarb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov2scarb</modelName>
+          <modShopLabel>tamx_loov2scarb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_loov3scarb</modelName>
+          <modShopLabel>tamx_loov3scarb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_HYDRO</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- spoilers -->
+        <Item>
+          <modelName>tamx_spoil2wor</modelName>
+          <modShopLabel>tamx_spoil2wor</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil2wor2</modelName>
+          <modShopLabel>tamx_spoil2wor2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil2cle</modelName>
+          <modShopLabel>tamx_spoil2cle</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil2cle2</modelName>
+          <modShopLabel>tamx_spoil2cle2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil2carb</modelName>
+          <modShopLabel>tamx_spoil2carb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil2carbm</modelName>
+          <modShopLabel>tamx_spoil2carbm</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil2al</modelName>
+          <modShopLabel>tamx_spoil2al</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil2alm</modelName>
+          <modShopLabel>tamx_spoil2alm</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil3</modelName>
+          <modShopLabel>tamx_spoil3</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil4cle</modelName>
+          <modShopLabel>tamx_spoil4cle</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil4cle2</modelName>
+          <modShopLabel>tamx_spoil4cle2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil4carb</modelName>
+          <modShopLabel>tamx_spoil4carb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil4carbm</modelName>
+          <modShopLabel>tamx_spoil4carbm</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil5wor</modelName>
+          <modShopLabel>tamx_spoil5wor</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil5wor2</modelName>
+          <modShopLabel>tamx_spoil5wor2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil5cle</modelName>
+          <modShopLabel>tamx_spoil5cle</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil5cle2</modelName>
+          <modShopLabel>tamx_spoil5cle2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil5carb</modelName>
+          <modShopLabel>tamx_spoil5carb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil5carbm</modelName>
+          <modShopLabel>tamx_spoil5carbm</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil5al</modelName>
+          <modShopLabel>tamx_spoil5al</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil5alm</modelName>
+          <modShopLabel>tamx_spoil5alm</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil6wor</modelName>
+          <modShopLabel>tamx_spoil6wor</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil6wor2</modelName>
+          <modShopLabel>tamx_spoil6wor2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil6cle</modelName>
+          <modShopLabel>tamx_spoil6cle</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil6cle2</modelName>
+          <modShopLabel>tamx_spoil6cle2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil6carb</modelName>
+          <modShopLabel>tamx_spoil6carb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil6carbm</modelName>
+          <modShopLabel>tamx_spoil6carbm</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil6al</modelName>
+          <modShopLabel>tamx_spoil6al</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil6alm</modelName>
+          <modShopLabel>tamx_spoil6alm</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- ducktail -->
+        <Item>
+          <modelName>tamx_spoil1awor</modelName>
+          <modShopLabel>tamx_spoil1awor</modShopLabel>
+          <linkedModels>
+            <Item>tamx_spoil1bwor</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil1awor2</modelName>
+          <modShopLabel>tamx_spoil1awor2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_spoil1bwor2</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil1acle</modelName>
+          <modShopLabel>tamx_spoil1acle</modShopLabel>
+          <linkedModels>
+            <Item>tamx_spoil1bcle</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil1acle2</modelName>
+          <modShopLabel>tamx_spoil1acle2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_spoil1bcle2</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil1acarb</modelName>
+          <modShopLabel>tamx_spoil1acarb</modShopLabel>
+          <linkedModels>
+            <Item>tamx_spoil1bcarb</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil1acarbm</modelName>
+          <modShopLabel>tamx_spoil1acarbm</modShopLabel>
+          <linkedModels>
+            <Item>tamx_spoil1bcarbm</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil1aal</modelName>
+          <modShopLabel>tamx_spoil1aal</modShopLabel>
+          <linkedModels>
+            <Item>tamx_spoil1bal</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_spoil1aalm</modelName>
+          <modShopLabel>tamx_spoil1aalm</modShopLabel>
+          <linkedModels>
+            <Item>tamx_spoil1balm</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- rear panel -->
+        <Item>
+          <modelName>tamx_rpanalm</modelName>
+          <modShopLabel>tamx_rpanalm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rpanwor</modelName>
+          <modShopLabel>tamx_rpanwor</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rpanwor2</modelName>
+          <modShopLabel>tamx_rpanwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rpancle</modelName>
+          <modShopLabel>tamx_rpancle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rpancle2</modelName>
+          <modShopLabel>tamx_rpancle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rpancarb</modelName>
+          <modShopLabel>tamx_rpancarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rpancarbm</modelName>
+          <modShopLabel>tamx_rpancarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- top spliter -->
+        <Item>
+          <modelName>tamx_topsplitwor</modelName>
+          <modShopLabel>tamx_tsplitwor</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_topsplitwor2</modelName>
+          <modShopLabel>tamx_tsplitwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_topsplitcle</modelName>
+          <modShopLabel>tamx_tsplitcle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_topsplitcle2</modelName>
+          <modShopLabel>tamx_tsplitcle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_topsplitcarb</modelName>
+          <modShopLabel>tamx_tsplitcarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_topsplitcarbm</modelName>
+          <modShopLabel>tamx_tsplitcarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_topsplital</modelName>
+          <modShopLabel>tamx_tsplital</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_topsplitalm</modelName>
+          <modShopLabel>tamx_tsplitalm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- spliter -->
+        <Item>
+          <modelName>tamx_splitcarb</modelName>
+          <modShopLabel>tamx_splitcarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_splitblack</modelName>
+          <modShopLabel>tamx_splitblack</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_splital2</modelName>
+          <modShopLabel>tamx_splital2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_splitcarb2</modelName>
+          <modShopLabel>tamx_splitcarb2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_splitblack2</modelName>
+          <modShopLabel>tamx_splitblack2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- difusor -->
+        <Item>
+          <modelName>tamx_difcarb</modelName>
+          <modShopLabel>tamx_difcarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_difblack</modelName>
+          <modShopLabel>tamx_difblack</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- exhaust -->
+		<Item>
+          <modelName>tamx_exh1</modelName>
+          <modShopLabel>tamx_exh1</modShopLabel>
+	      <linkedModels />
+		  <turnOffBones>
+            <Item>misc_r</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+			<Item>exhaust_4</Item>
+			<Item>exhaust_5</Item>
+			<Item>exhaust_6</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="true" />
+          <allowBonnetSlide value="false" />
+		  <disableProjectileDriveby value="true" />
+		  <disableDrivebySeat value="0" />
+		  <disableDrivebySeatSecondary value="1" />
+        </Item>
+		<Item>
+          <modelName>tamx_exh2</modelName>
+          <modShopLabel>tamx_exh2</modShopLabel>
+	      <linkedModels />
+		  <turnOffBones>
+            <Item>misc_r</Item>
+            <Item>misc_j</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+			<Item>exhaust_4</Item>
+			<Item>exhaust_5</Item>
+			<Item>exhaust_6</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="true" />
+          <allowBonnetSlide value="false" />
+		  <disableProjectileDriveby value="true" />
+		  <disableDrivebySeat value="0" />
+		  <disableDrivebySeatSecondary value="1" />
+        </Item>
+		<Item>
+          <modelName>tamx_exh3</modelName>
+          <modShopLabel>tamx_exh3</modShopLabel>
+	      <linkedModels />
+		  <turnOffBones>
+            <Item>misc_r</Item>
+            <Item>misc_j</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+			<Item>exhaust_4</Item>
+			<Item>exhaust_5</Item>
+			<Item>exhaust_6</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="true" />
+          <allowBonnetSlide value="false" />
+		  <disableProjectileDriveby value="true" />
+		  <disableDrivebySeat value="0" />
+		  <disableDrivebySeatSecondary value="1" />
+        </Item>
+		<Item>
+          <modelName>tamx_exh4</modelName>
+          <modShopLabel>tamx_exh4</modShopLabel>
+	      <linkedModels />
+		  <turnOffBones>
+            <Item>misc_r</Item>
+            <Item>misc_j</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+			<Item>exhaust_4</Item>
+			<Item>exhaust_5</Item>
+			<Item>exhaust_6</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="true" />
+          <allowBonnetSlide value="false" />
+		  <disableProjectileDriveby value="true" />
+		  <disableDrivebySeat value="0" />
+		  <disableDrivebySeatSecondary value="1" />
+        </Item>
+		<Item>
+          <modelName>tamx_exh5</modelName>
+          <modShopLabel>tamx_exh5</modShopLabel>
+	      <linkedModels />
+		  <turnOffBones>
+            <Item>misc_r</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+			<Item>exhaust_4</Item>
+			<Item>exhaust_5</Item>
+			<Item>exhaust_6</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="true" />
+          <allowBonnetSlide value="false" />
+		  <disableProjectileDriveby value="true" />
+		  <disableDrivebySeat value="0" />
+		  <disableDrivebySeatSecondary value="1" />
+        </Item>
+		<Item>
+          <modelName>tamx_exh6</modelName>
+          <modShopLabel>tamx_exh6</modShopLabel>
+	      <linkedModels />
+		  <turnOffBones>
+            <Item>misc_r</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+			<Item>exhaust_4</Item>
+			<Item>exhaust_5</Item>
+			<Item>exhaust_6</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="true" />
+          <allowBonnetSlide value="false" />
+		  <disableProjectileDriveby value="true" />
+		  <disableDrivebySeat value="0" />
+		  <disableDrivebySeatSecondary value="1" />
+        </Item>
+		<Item>
+          <modelName>tamx_exh7</modelName>
+          <modShopLabel>tamx_exh7</modShopLabel>
+	      <linkedModels />
+		  <turnOffBones>
+            <Item>misc_r</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+			<Item>exhaust_4</Item>
+			<Item>exhaust_5</Item>
+			<Item>exhaust_6</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="true" />
+          <allowBonnetSlide value="false" />
+		  <disableProjectileDriveby value="true" />
+		  <disableDrivebySeat value="0" />
+		  <disableDrivebySeatSecondary value="1" />
+        </Item>
+		<Item>
+          <modelName>tamx_exh8</modelName>
+          <modShopLabel>tamx_exh8</modShopLabel>
+	      <linkedModels />
+		  <turnOffBones>
+            <Item>misc_r</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+			<Item>exhaust_4</Item>
+			<Item>exhaust_5</Item>
+			<Item>exhaust_6</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="true" />
+          <allowBonnetSlide value="false" />
+		  <disableProjectileDriveby value="true" />
+		  <disableDrivebySeat value="0" />
+		  <disableDrivebySeatSecondary value="1" />
+        </Item>
+	  <!-- front panel -->
+        <Item>
+          <modelName>tamx_fpanwor2</modelName>
+          <modShopLabel>tamx_fpanwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fpancle</modelName>
+          <modShopLabel>tamx_fpancle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fpancle2</modelName>
+          <modShopLabel>tamx_fpancle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fpancarb</modelName>
+          <modShopLabel>tamx_fpancarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fpancarbm</modelName>
+          <modShopLabel>tamx_fpancarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fpanal</modelName>
+          <modShopLabel>tamx_fpanal</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fpanalm</modelName>
+          <modShopLabel>tamx_fpanalm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_PLTVANITY</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- skirts -->
+        <Item>
+          <modelName>tamx_skirtalm</modelName>
+          <modShopLabel>tamx_skirtalm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_skirtwor</modelName>
+          <modShopLabel>tamx_skirtwor</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_skirtwor2</modelName>
+          <modShopLabel>tamx_skirtwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_skirtcle</modelName>
+          <modShopLabel>tamx_skirtcle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_skirtcle2</modelName>
+          <modShopLabel>tamx_skirtcle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_skirtcarb</modelName>
+          <modShopLabel>tamx_skirtcarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_skirtcarbm</modelName>
+          <modShopLabel>tamx_skirtcarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- roof -->
+        <Item>
+          <modelName>tamx_rooflwor2</modelName>
+          <modShopLabel>tamx_rooflwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rooflcle</modelName>
+          <modShopLabel>tamx_rooflcle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rooflcle2</modelName>
+          <modShopLabel>tamx_rooflcle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rooflcarb</modelName>
+          <modShopLabel>tamx_rooflcarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rooflcarbm</modelName>
+          <modShopLabel>tamx_rooflcarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rooflal</modelName>
+          <modShopLabel>tamx_rooflal</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_rooflalm</modelName>
+          <modShopLabel>tamx_rooflalm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofswor</modelName>
+          <modShopLabel>tamx_worcs</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofswor2</modelName>
+          <modShopLabel>tamx_wor2cs</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofscle</modelName>
+          <modShopLabel>tamx_clecs</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofscle2</modelName>
+          <modShopLabel>tamx_cle2cs</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofscarb</modelName>
+          <modShopLabel>tamx_carbcs</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofscarbm</modelName>
+          <modShopLabel>tamx_carbmcs</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofsal</modelName>
+          <modShopLabel>tamx_alcs</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofsalm</modelName>
+          <modShopLabel>tamx_almcs</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofwor</modelName>
+          <modShopLabel>tamx_worco</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofwor2</modelName>
+          <modShopLabel>tamx_wor2co</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofcle</modelName>
+          <modShopLabel>tamx_cleco</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofcle2</modelName>
+          <modShopLabel>tamx_cle2co</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofcarb</modelName>
+          <modShopLabel>tamx_carbco</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofcarbm</modelName>
+          <modShopLabel>tamx_carbmco</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofal</modelName>
+          <modShopLabel>tamx_alco</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roofalm</modelName>
+          <modShopLabel>tamx_almco</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_k</Item>
+            <Item>extra_3</Item>
+            <Item>extra_4</Item>
+            <Item>windscreen_r</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- front fender1 -->
+        <Item>
+          <modelName>tamx_shellfwor2</modelName>
+          <modShopLabel>tamx_shellfwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_v</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellfcle</modelName>
+          <modShopLabel>tamx_shellfcle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_v</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellfcle2</modelName>
+          <modShopLabel>tamx_shellfcle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_v</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellfcarb</modelName>
+          <modShopLabel>tamx_shellfcarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_v</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellfcarbm</modelName>
+          <modShopLabel>tamx_shellfcarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_v</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellfal</modelName>
+          <modShopLabel>tamx_shellfal</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_v</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellfalm</modelName>
+          <modShopLabel>tamx_shellfalm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_v</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_v</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- rear fender1 -->
+        <Item>
+          <modelName>tamx_shellrwor2</modelName>
+          <modShopLabel>tamx_shellrwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellrcle1</modelName>
+          <modShopLabel>tamx_shellrcle1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellrcle2</modelName>
+          <modShopLabel>tamx_shellrcle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellrcarb</modelName>
+          <modShopLabel>tamx_shellrcarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellrcarbm</modelName>
+          <modShopLabel>tamx_shellrcarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellral</modelName>
+          <modShopLabel>tamx_shellral</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_shellralm</modelName>
+          <modShopLabel>tamx_shellralm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- front flares -->
+        <Item>
+          <modelName>tamx_fenderfalm</modelName>
+          <modShopLabel>tamx_fenderfalm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_rf</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderfwor</modelName>
+          <modShopLabel>tamx_fenderfwor</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_rf</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderfwor2</modelName>
+          <modShopLabel>tamx_fenderfwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_rf</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderfcle</modelName>
+          <modShopLabel>tamx_fenderfcle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_rf</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderfcle2</modelName>
+          <modShopLabel>tamx_fenderfcle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_rf</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderfcarb</modelName>
+          <modShopLabel>tamx_fenderfcarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_rf</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderfcarbm</modelName>
+          <modShopLabel>tamx_fenderfcarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_rf</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_rf</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- rear flares -->
+        <Item>
+          <modelName>tamx_fenderralm</modelName>
+          <modShopLabel>tamx_fenderralm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_lf</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderrwor</modelName>
+          <modShopLabel>tamx_fenderrwor</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_lf</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderrwor2</modelName>
+          <modShopLabel>tamx_fenderrwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_lf</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderrcle</modelName>
+          <modShopLabel>tamx_fenderrcle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_lf</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderrcle2</modelName>
+          <modShopLabel>tamx_fenderrcle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_lf</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderrcarb</modelName>
+          <modShopLabel>tamx_fenderrcarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_lf</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_fenderrcarbm</modelName>
+          <modShopLabel>tamx_fenderrcarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_lf</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null12</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>wing_lf</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- bonnet -->
+        <Item>
+          <modelName>tamx_bonwor2</modelName>
+          <modShopLabel>tamx_bonwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boncle</modelName>
+          <modShopLabel>tamx_boncle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boncle2</modelName>
+          <modShopLabel>tamx_boncle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boncarb</modelName>
+          <modShopLabel>tamx_boncarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boncarbm</modelName>
+          <modShopLabel>tamx_boncarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bonal</modelName>
+          <modShopLabel>tamx_bonal</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bonalm</modelName>
+          <modShopLabel>tamx_bonalm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bon1wor</modelName>
+          <modShopLabel>tamx_ventwor</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bon1wor2</modelName>
+          <modShopLabel>tamx_ventwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bon1cle</modelName>
+          <modShopLabel>tamx_ventcle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bon1cle2</modelName>
+          <modShopLabel>tamx_ventcle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bon1carb</modelName>
+          <modShopLabel>tamx_ventcarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bon1carbm</modelName>
+          <modShopLabel>tamx_ventcarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bon1al</modelName>
+          <modShopLabel>tamx_vental</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bon1alm</modelName>
+          <modShopLabel>tamx_ventalm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null13</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+            <Item>window_rm</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- boot -->
+        <Item>
+          <modelName>tamx_bootwor2</modelName>
+          <modShopLabel>tamx_bootwor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bootcle</modelName>
+          <modShopLabel>tamx_bootcle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bootcle2</modelName>
+          <modShopLabel>tamx_bootcle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bootcarb</modelName>
+          <modShopLabel>tamx_bootcarb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bootcarbm</modelName>
+          <modShopLabel>tamx_bootcarbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bootal</modelName>
+          <modShopLabel>tamx_bootal</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_bootalm</modelName>
+          <modShopLabel>tamx_bootalm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boot1wor</modelName>
+          <modShopLabel>tamx_boot1wor</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boot1wor2</modelName>
+          <modShopLabel>tamx_boot1wor2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boot1cle</modelName>
+          <modShopLabel>tamx_boot1cle</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boot1cle2</modelName>
+          <modShopLabel>tamx_boot1cle2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boot1carb</modelName>
+          <modShopLabel>tamx_boot1carb</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boot1carbm</modelName>
+          <modShopLabel>tamx_boot1carbm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boot1al</modelName>
+          <modShopLabel>tamx_boot1al</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_boot1alm</modelName>
+          <modShopLabel>tamx_boot1alm</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null14</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+            <Item>window_lm</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- door -->
+        <Item>
+          <modelName>tamx_iwor2</modelName>
+          <modShopLabel>tamx_iwor2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_doordwor2</Item>
+            <Item>tamx_doorpwor2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_i</Item>
+            <Item>door_dside_f</Item>
+            <Item>door_pside_f</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_icle</modelName>
+          <modShopLabel>tamx_icle</modShopLabel>
+          <linkedModels>
+            <Item>tamx_doordcle</Item>
+            <Item>tamx_doorpcle</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_i</Item>
+            <Item>door_dside_f</Item>
+            <Item>door_pside_f</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_icle2</modelName>
+          <modShopLabel>tamx_icle2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_doordcle2</Item>
+            <Item>tamx_doorpcle2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_i</Item>
+            <Item>door_dside_f</Item>
+            <Item>door_pside_f</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_ial</modelName>
+          <modShopLabel>tamx_ial</modShopLabel>
+          <linkedModels>
+            <Item>tamx_doordal</Item>
+            <Item>tamx_doorpal</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_i</Item>
+            <Item>door_dside_f</Item>
+            <Item>door_pside_f</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_ialm</modelName>
+          <modShopLabel>tamx_ialm</modShopLabel>
+          <linkedModels>
+            <Item>tamx_doordalm</Item>
+            <Item>tamx_doorpalm</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_i</Item>
+            <Item>door_dside_f</Item>
+            <Item>door_pside_f</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_icarb</modelName>
+          <modShopLabel>tamx_icarb</modShopLabel>
+          <linkedModels>
+            <Item>tamx_doordcarb</Item>
+            <Item>tamx_doorpcarb</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_i</Item>
+            <Item>door_dside_f</Item>
+            <Item>door_pside_f</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_icarbm</modelName>
+          <modShopLabel>tamx_icarbm</modShopLabel>
+          <linkedModels>
+            <Item>tamx_doordcarbm</Item>
+            <Item>tamx_doorpcarbm</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_i</Item>
+            <Item>door_dside_f</Item>
+            <Item>door_pside_f</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null15</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_i</Item>
+            <Item>door_dside_f</Item>
+            <Item>door_pside_f</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- tailight -->
+        <Item>
+          <modelName>tamx_lightduk</modelName>
+          <modShopLabel>tamx_lightduk</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightdukb</Item>
+            <Item>tamx_lightduka</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightgauc</modelName>
+          <modShopLabel>tamx_lightgauc</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightgaub</Item>
+            <Item>tamx_lightgaua</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightwar</modelName>
+          <modShopLabel>tamx_lightwar</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightwarb</Item>
+            <Item>tamx_lightwara</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightdukled</modelName>
+          <modShopLabel>tamx_lightdukled1</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightdukled1b</Item>
+            <Item>tamx_lightdukled1a</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightdukled</modelName>
+          <modShopLabel>tamx_lightdukled3</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightdukled3b</Item>
+            <Item>tamx_lightdukled3a</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightdukled</modelName>
+          <modShopLabel>tamx_lightdukled2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightdukled2b</Item>
+            <Item>tamx_lightdukled2a</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_sto</modelName>
+          <modShopLabel>tamx_sto</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightstoa</Item>
+            <Item>tamx_lightstob</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightduk</modelName>
+          <modShopLabel>tamx_lightduk2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightdukb2</Item>
+            <Item>tamx_lightduka2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightgauc</modelName>
+          <modShopLabel>tamx_lightgauc2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightgaub2</Item>
+            <Item>tamx_lightgaua2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightwar</modelName>
+          <modShopLabel>tamx_lightwar2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightwarb2</Item>
+            <Item>tamx_lightwara2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightdukled</modelName>
+          <modShopLabel>tamx_lightdukled12</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightdukled1b2</Item>
+            <Item>tamx_lightdukled1a2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightdukled</modelName>
+          <modShopLabel>tamx_lightdukled32</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightdukled3b2</Item>
+            <Item>tamx_lightdukled3a2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightdukled</modelName>
+          <modShopLabel>tamx_lightdukled22</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightdukled2b2</Item>
+            <Item>tamx_lightdukled2a2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tampax_null</modelName>
+          <modShopLabel>tampax_null16</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+            <Item>misc_e</Item>
+            <Item>misc_f</Item>
+            <Item>indicator_lr</Item>
+            <Item>indicator_rr</Item>
+            <Item>taillight_r</Item>
+            <Item>taillight_l</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- seat -->
+        <Item>
+          <modelName>tamx_seat1</modelName>
+          <modShopLabel>tamx_seat1</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_q</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_seat2</modelName>
+          <modShopLabel>tamx_seat2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_q</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- front light -->
+        <Item>
+          <modelName>tamx_coval</modelName>
+          <modShopLabel>tamx_coval</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_o</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>misc_o</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_covcarb</modelName>
+          <modShopLabel>tamx_covcarb</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_o</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>misc_o</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_null</modelName>
+          <modShopLabel>tamx_colight1</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lighta</Item>
+            <Item>tamx_lightb</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_a</Item>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_coval</modelName>
+          <modShopLabel>tamx_coval2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lighta</Item>
+            <Item>tamx_lightb</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_o</Item>
+            <Item>misc_a</Item>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>misc_o</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_covcarb</modelName>
+          <modShopLabel>tamx_colight2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lighta</Item>
+            <Item>tamx_lightb</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_o</Item>
+            <Item>misc_a</Item>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>misc_o</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roundlight</modelName>
+          <modShopLabel>tamx_roundlight</modShopLabel>
+          <linkedModels>
+            <Item>tamx_roundlighta</Item>
+            <Item>tamx_roundlightb</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_o</Item>
+            <Item>misc_p</Item>
+            <Item>misc_a</Item>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_roundlight</modelName>
+          <modShopLabel>tamx_roundlight2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_roundlighta2</Item>
+            <Item>tamx_roundlightb2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_o</Item>
+            <Item>misc_p</Item>
+            <Item>misc_a</Item>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightbar</modelName>
+          <modShopLabel>tamx_lightbar</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightbara</Item>
+            <Item>tamx_lightbarb</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_o</Item>
+            <Item>misc_p</Item>
+            <Item>misc_a</Item>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_lightbar</modelName>
+          <modShopLabel>tamx_lightbar2</modShopLabel>
+          <linkedModels>
+            <Item>tamx_lightbara2</Item>
+            <Item>tamx_lightbarb2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_o</Item>
+            <Item>misc_p</Item>
+            <Item>misc_a</Item>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>tamx_null</modelName>
+          <modShopLabel>tampax_null17</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_o</Item>
+            <Item>misc_p</Item>
+            <Item>misc_a</Item>
+            <Item>misc_b</Item>
+            <Item>headlight_r</Item>
+            <Item>headlight_l</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+      <linkMods>
+		<Item>
+          <modelName>tamx_spoil1bwor</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_spoil1bwor2</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_spoil1bcle</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_spoil1bcle2</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_spoil1bcarb</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_spoil1bcarbm</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_spoil1bal</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_spoil1balm</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doorpal</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doorpalm</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doorpcarb</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doorpcarbm</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doorpcle</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doorpcle2</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doorpwor2</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doordal</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doordalm</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doordcarb</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doordcarbm</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doordcle</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doordcle2</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_doordwor2</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightwarb</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightwara</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukb</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightduka</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled1b</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled1a</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled2b</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled2a</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled3b</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled3a</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightgaub</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightgaua</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightbara</modelName>
+          <bone>headlight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightbarb</modelName>
+          <bone>headlight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_roundlighta</modelName>
+          <bone>headlight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_roundlightb</modelName>
+          <bone>headlight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_roundhalloa</modelName>
+          <bone>headlight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_roundhallob</modelName>
+          <bone>headlight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightwarb2</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightwara2</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukb2</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightduka2</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled1b2</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled1a2</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled2b2</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled2a2</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled3b2</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightdukled3a2</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightgaub2</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightgaua2</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightstob</modelName>
+          <bone>taillight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightstoa</modelName>
+          <bone>taillight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightbara2</modelName>
+          <bone>headlight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightbarb2</modelName>
+          <bone>headlight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_roundlighta2</modelName>
+          <bone>headlight_l</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_roundlightb2</modelName>
+          <bone>headlight_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lighta</modelName>
+          <bone>misc_a</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>tamx_lightb</modelName>
+          <bone>misc_b</bone>
+          <turnOffExtra value="false" />
+        </Item>
+      </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames />
+      <liveryNames />
+    </Item>
+  </Kits>   
+    <Lights>
+<Item>
+      <id value="666" />
+      <indicator>
+        <intensity value="0.375000" />
+        <falloffMax value="2.500000" />
+        <falloffExponent value="8.000000" />
+        <innerConeAngle value="20.000000" />
+        <outerConeAngle value="50.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF7300" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.250000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF0000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </tailLight>
+      <tailLightCorona>
+        <size value="0.00000" />
+        <size_far value="0.00000" />
+        <intensity value="0.00000" />
+        <intensity_far value="0.000000" />
+        <color value="0xFFFF0F05" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="1" />
+        <distBetweenCoronas_far value="111" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="6.189000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.500000" />
+        <falloffMax value="35.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="60.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFF7FA7E3" />
+        <textureName>VehicleLight_car_LED1</textureName>
+        <mirrorTexture value="false" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.00000" />
+        <size_far value="0" />
+        <intensity value="0" />
+        <intensity_far value="0" />
+        <color value="0xFF61A5FF" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="1" />
+        <distBetweenCoronas_far value="147" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.094000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.500000" />
+        <falloffMax value="7.200000" />
+        <falloffExponent value="32.000000" />
+        <innerConeAngle value="20.000000" />
+        <outerConeAngle value="78.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFFF" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.00000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00F7F7F7" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </reversingLightCorona>
+      <name>tampax</name>
+    </Item>
+    </Lights>
+</CVehicleModelInfoVarGlobal>

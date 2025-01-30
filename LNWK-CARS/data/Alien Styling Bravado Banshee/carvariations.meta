@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>bansheeas</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            13
+            27
+            64
+            156
+            71
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            73
+            28
+            156
+            73
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            27
+            70
+            156
+            29
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            135
+            135
+            156
+            145
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            71
+            140
+            81
+            156
+            70
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            15
+            91
+            95
+            156
+            94
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            5
+            125
+            156
+            94
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            10
+            111
+            87
+            156
+            7
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            135
+            145
+            156
+            136
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            137
+            89
+            81
+            156
+            29
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            143
+            137
+            145
+            156
+            62
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            61
+            73
+            81
+            156
+            33
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>671_asbanshee_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="40" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="60" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>  
+  </variationData>
+</CVehicleModelInfoVariation>
