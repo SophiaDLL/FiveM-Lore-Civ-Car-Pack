@@ -19,7 +19,7 @@
         <Item>VEH_EXT_WINDSCREEN_R</Item>
       </animConvRoofWindowsAffected>
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>audioNameHash</audioNameHash>
+      <audioNameHash>T20</audioNameHash>
       <layout>LAYOUT_LOW_TORERO</layout>
       <coverBoundOffsets>T20_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

@@ -22,7 +22,7 @@
         <Item>VEH_EXT_WINDSCREEN_R</Item>	
       </animConvRoofWindowsAffected>
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>btype2</audioNameHash>
+      <audioNameHash>btype</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>DOMINATOR7_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

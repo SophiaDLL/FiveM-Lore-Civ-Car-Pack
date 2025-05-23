@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>LM87</audioNameHash>
+      <audioNameHash>burrito</audioNameHash>
       <layout>LAYOUT_VAN</layout>
       <coverBoundOffsets>BURRITO_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>weap_xs_vehicle_weapons</ptfxAssetName>
-	  <audioNameHash>elegyx</audioNameHash>
+	  <audioNameHash>elegy</audioNameHash>
       <layout>LAYOUT_LOW_DELUXO</layout>
       <coverBoundOffsets>DELUXO_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>weap_xs_vehicle_weapons</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>argento</audioNameHash>
       <layout>LAYOUT_STD_BOOR</layout>
       <coverBoundOffsets>BOOR_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
