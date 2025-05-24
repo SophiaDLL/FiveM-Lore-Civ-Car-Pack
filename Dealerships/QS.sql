@@ -1,0 +1,2 @@
+-- This is the template that we will be following on Vehicle Additions
+INSERT INTO `qs_vehicleshop_vehicles` (`vehicle_model`, `default_description`, `min_price`, `max_price`, `buy_price`, `hidden`, `is_crypto`) VALUES ('adder', 'Description', 1500000, 2500000, NULL, 0, 0);
